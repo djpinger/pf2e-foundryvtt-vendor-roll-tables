@@ -1,0 +1,484 @@
+{
+  "name": "Blacksmith (Levels 5-10)",
+  "description": "A master blacksmith's forge offering quality weapons, armor, and shields suitable for seasoned adventurers. Specializes in +1 and +2 runes and higher-grade materials.",
+  "formula": "1d20",
+  "replacement": true,
+  "displayRoll": true,
+  "img": "icons/tools/smithing/hammer-sledge-grey-grey.webp",
+  "results": [
+    {
+      "type": "document",
+      "img": "systems/pf2e/icons/equipment/weapons/longsword.webp",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_id": "36b3f8f0350d4e1d",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "name": "+1 Longsword",
+      "documentUuid": "Compendium.pf2e.equipment-srd.IIbOOoXmkdFQQ2xB",
+      "description": ""
+    },
+    {
+      "type": "document",
+      "img": "systems/pf2e/icons/equipment/armor/chain-mail.webp",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_id": "605c618c2185459a",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "name": "+1 Chain Mail",
+      "documentUuid": "Compendium.pf2e.equipment-srd.QD9MKaP5Q8qzCNXX",
+      "description": ""
+    },
+    {
+      "type": "document",
+      "img": "systems/pf2e/icons/equipment/weapons/warhammer.webp",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_id": "acf8c30f120e49ea",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "name": "+1 Striking Warhammer",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Ui3j7LQKj3H50pVQ",
+      "description": ""
+    },
+    {
+      "type": "document",
+      "img": "systems/pf2e/icons/equipment/shields/steel-shield.webp",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_id": "4e787539830b46fb",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "name": "+1 Steel Shield",
+      "documentUuid": "Compendium.pf2e.equipment-srd.UhYdU6kIIYJLQ8Bh",
+      "description": ""
+    },
+    {
+      "type": "document",
+      "img": "systems/pf2e/icons/equipment/weapons/battle-axe.webp",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_id": "d82628b6218347a6",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "name": "Cold Iron Battleaxe",
+      "documentUuid": "Compendium.pf2e.equipment-srd.1Ln9WIbmRQkp2EhK",
+      "description": ""
+    },
+    {
+      "type": "document",
+      "img": "systems/pf2e/icons/equipment/armor/breastplate.webp",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_id": "b707452b612d4d7f",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "name": "+1 Breastplate",
+      "documentUuid": "Compendium.pf2e.equipment-srd.QrHhJ9HpD3JGEiT3",
+      "description": ""
+    },
+    {
+      "type": "document",
+      "img": "systems/pf2e/icons/equipment/weapons/rapier.webp",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_id": "9b644a849c7f4063",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "name": "Mithral Rapier",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Ui3j7LQKj3H50pVQ",
+      "description": ""
+    },
+    {
+      "type": "document",
+      "img": "systems/pf2e/icons/equipment/weapons/composite-longbow.webp",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_id": "da170089825e4572",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "name": "+1 Composite Longbow",
+      "documentUuid": "Compendium.pf2e.equipment-srd.4hJ5D5EjAF9LlGDB",
+      "description": ""
+    },
+    {
+      "type": "document",
+      "img": "systems/pf2e/icons/equipment/weapons/dagger.webp",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_id": "619a69f7775843ea",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "name": "Adamantine Dagger",
+      "documentUuid": "Compendium.pf2e.equipment-srd.YHl8a7EqCgacE8YQ",
+      "description": ""
+    },
+    {
+      "type": "document",
+      "img": "systems/pf2e/icons/equipment/armor/scale-mail.webp",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_id": "3ad54de702664fd2",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "name": "+2 Scale Mail",
+      "documentUuid": "Compendium.pf2e.equipment-srd.X0NQCa93C7oG8O8R",
+      "description": ""
+    },
+    {
+      "type": "document",
+      "img": "systems/pf2e/icons/equipment/weapons/scimitar.webp",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_id": "875e4cbe80da4f96",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "name": "+1 Striking Scimitar",
+      "documentUuid": "Compendium.pf2e.equipment-srd.QiJvx7EMi4BLp5Qm",
+      "description": ""
+    },
+    {
+      "type": "document",
+      "img": "systems/pf2e/icons/equipment/weapons/spear.webp",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_id": "5d7a8817d2ce4c07",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "name": "Silver Spear",
+      "documentUuid": "Compendium.pf2e.equipment-srd.WFpFyVy7XEeFahUi",
+      "description": ""
+    },
+    {
+      "type": "document",
+      "img": "systems/pf2e/icons/equipment/armor/leather-armor.webp",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_id": "4a06d7b401544286",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "name": "+1 Resilient Leather Armor",
+      "documentUuid": "Compendium.pf2e.equipment-srd.QD9MKaP5Q8qzCNXX",
+      "description": ""
+    },
+    {
+      "type": "document",
+      "img": "systems/pf2e/icons/equipment/shields/buckler.webp",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_id": "ebb19cea572d40ea",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "name": "+2 Buckler",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Ui3j7LQKj3H50pVQ",
+      "description": ""
+    },
+    {
+      "type": "document",
+      "img": "systems/pf2e/icons/equipment/armor/chain-shirt.webp",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "_id": "6969df0d353b4c91",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "name": "Mithral Chain Shirt",
+      "documentUuid": "Compendium.pf2e.equipment-srd.X0NQCa93C7oG8O8R",
+      "description": ""
+    },
+    {
+      "type": "document",
+      "img": "systems/pf2e/icons/equipment/weapons/crossbow.webp",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "_id": "6c4e737bfeb24270",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "name": "+1 Striking Crossbow",
+      "documentUuid": "Compendium.pf2e.equipment-srd.4hJ5D5EjAF9LlGDB",
+      "description": ""
+    },
+    {
+      "type": "document",
+      "img": "systems/pf2e/icons/equipment/weapons/greatsword.webp",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "_id": "4029e477bba8478f",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "name": "Cold Iron Greatsword",
+      "documentUuid": "Compendium.pf2e.equipment-srd.1Ln9WIbmRQkp2EhK",
+      "description": ""
+    },
+    {
+      "type": "document",
+      "img": "systems/pf2e/icons/equipment/armor/studded-leather-armor.webp",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "_id": "638d9f0ec1de4fef",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "name": "+2 Studded Leather",
+      "documentUuid": "Compendium.pf2e.equipment-srd.X0NQCa93C7oG8O8R",
+      "description": ""
+    },
+    {
+      "type": "document",
+      "img": "systems/pf2e/icons/equipment/weapons/shortsword.webp",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "_id": "bb9575411cd44a44",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "name": "+1 Flaming Shortsword",
+      "documentUuid": "Compendium.pf2e.equipment-srd.IIbOOoXmkdFQQ2xB",
+      "description": ""
+    },
+    {
+      "type": "document",
+      "img": "systems/pf2e/icons/equipment/weapons/maul.webp",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_id": "12738a67fab74d74",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "name": "+2 Striking Maul",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Ui3j7LQKj3H50pVQ",
+      "description": ""
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "13.346",
+    "systemId": "pf2e",
+    "systemVersion": "7.4.1",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

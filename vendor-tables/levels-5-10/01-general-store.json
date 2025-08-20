@@ -1,0 +1,484 @@
+{
+  "name": "General Store (Levels 5-10)",
+  "description": "A well-stocked general store catering to mid-level adventurers. Contains essential gear, tools, and supplies for characters between levels 5-10.",
+  "formula": "1d20",
+  "replacement": true,
+  "displayRoll": true,
+  "img": "icons/containers/bags/pack-leather-white-tan.webp",
+  "results": [
+    {
+      "type": "document",
+      "img": "icons/sundries/lights/torch-black.webp",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_id": "6bca04a196464f0a",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "name": "Everburning Torch",
+      "documentUuid": "Compendium.pf2e.equipment-srd.eJLpajj9DABuOa4c",
+      "description": ""
+    },
+    {
+      "type": "document",
+      "img": "icons/sundries/misc/rope-coiled.webp",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_id": "67b69e27b07646e2",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "name": "Climbing Kit (Extreme)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.2YLPIIlWN7TaZ78F",
+      "description": ""
+    },
+    {
+      "type": "document",
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/thieves-tools.webp",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_id": "705da0ea33eb4635",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "name": "Thieves' Tools (Infiltrator)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.IBXmNRqjYrYKFrbG",
+      "description": ""
+    },
+    {
+      "type": "document",
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/healers-kit.webp",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_id": "3bd6bb83bf0f4221",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "name": "Healer's Kit (Expanded)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.4lG5pVQXr8iR0yWU",
+      "description": ""
+    },
+    {
+      "type": "document",
+      "img": "icons/sundries/misc/rope-coiled.webp",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_id": "b0d71c20deba470b",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "name": "Rope (50 feet, Spider Silk)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Y7nHNfRt7KcA7P5Z",
+      "description": ""
+    },
+    {
+      "type": "document",
+      "img": "systems/pf2e/icons/equipment/held-items/bag-of-holding.webp",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_id": "da5db3b0a9804af1",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "name": "Backpack (Bag of Holding Type I)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.0dmLqQcWl6flWDPr",
+      "description": ""
+    },
+    {
+      "type": "document",
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/bedroll.webp",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_id": "2153abde6dfc47d1",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "name": "Bedroll (Deluxe)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.JJdBe8oVKuLsrxDU",
+      "description": ""
+    },
+    {
+      "type": "document",
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/rations.webp",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_id": "0f24fb9f4b264380",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "name": "Rations (1 week)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.mTGKe6G7CpPCdGzd",
+      "description": ""
+    },
+    {
+      "type": "document",
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/compass.webp",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_id": "36faea25afb743de",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "name": "Compass (Lensatic)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.bjLn89BOgHy2xKMN",
+      "description": ""
+    },
+    {
+      "type": "document",
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/spyglass.webp",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_id": "df721ac64d834cee",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "name": "Spyglass",
+      "documentUuid": "Compendium.pf2e.equipment-srd.MzfSRs0cnY4XKJeM",
+      "description": ""
+    },
+    {
+      "type": "document",
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/grappling-hook.webp",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_id": "cabb1209f18f49af",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "name": "Grappling Hook (Mithral)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.3lIWHbf7ynXGxUNR",
+      "description": ""
+    },
+    {
+      "type": "document",
+      "img": "icons/containers/bags/pouch-simple-brown.webp",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_id": "3392e90bf2ae4c12",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "name": "Belt Pouch (Concealed)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.9PNvC7QUx8KJYTwh",
+      "description": ""
+    },
+    {
+      "type": "document",
+      "img": "systems/pf2e/icons/equipment/weapons/caltrops.webp",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_id": "9237f11130da4359",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "name": "Caltrops (Cold Iron)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.sYO6JQ5HPUOE3g8d",
+      "description": ""
+    },
+    {
+      "type": "document",
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/crowbar.webp",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_id": "2fb10a6e443c4b85",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "name": "Crowbar (Prying Bar)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.p1j2nMo7Q2Y0Pqt8",
+      "description": ""
+    },
+    {
+      "type": "document",
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/lock.webp",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "_id": "b1497c9d98754760",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "name": "Lock (Good)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.q6w5opOOYpK7K83f",
+      "description": ""
+    },
+    {
+      "type": "document",
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/manacles.webp",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "_id": "acab145f89264f04",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "name": "Manacles (Mithral)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.o7S8wGqFo0fWgFTr",
+      "description": ""
+    },
+    {
+      "type": "document",
+      "img": "systems/pf2e/icons/equipment/weapons/net.webp",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "_id": "8180c1b51e18463f",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "name": "Net (Combat)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.a8Sf7ZJDJSqp2b2G",
+      "description": ""
+    },
+    {
+      "type": "document",
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/writing-set.webp",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "_id": "f84431321ea24c57",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "name": "Writing Set (Professional)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.L6ld2UfDR6lFDnV2",
+      "description": ""
+    },
+    {
+      "type": "document",
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/oil.webp",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "_id": "555e360b08ba444e",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "name": "Oil (5 bottles)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Y4GXjEzuaHOX8pTq",
+      "description": ""
+    },
+    {
+      "type": "document",
+      "img": "systems/pf2e/icons/equipment/alchemical-bombs/smokestick.webp",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_id": "7e0a3835639c4923",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "name": "Smokestick (Greater)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.eB8j0vP0vBthwJvP",
+      "description": ""
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "13.346",
+    "systemId": "pf2e",
+    "systemVersion": "7.4.1",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}

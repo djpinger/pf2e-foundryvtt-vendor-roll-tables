@@ -1,0 +1,484 @@
+{
+  "name": "Alchemist Shop (Levels 5-10)",
+  "description": "An alchemist's laboratory and shop stocked with potions, elixirs, mutagens, and alchemical tools perfect for mid-level adventurers seeking magical enhancements and utility items.",
+  "formula": "1d20",
+  "replacement": true,
+  "displayRoll": true,
+  "img": "icons/consumables/potions/bottle-round-corked-red.webp",
+  "results": [
+    {
+      "type": "document",
+      "img": "systems/pf2e/icons/equipment/consumables/potions/healing-potion-moderate.webp",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_id": "dcbbfdfaf8b3482f",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "name": "Moderate Healing Potion",
+      "documentUuid": "Compendium.pf2e.equipment-srd.NbWGkRLCZR3CaCbr",
+      "description": ""
+    },
+    {
+      "type": "document",
+      "img": "systems/pf2e/icons/equipment/consumables/antidote.webp",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_id": "16976f7627c84095",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "name": "Greater Antidote",
+      "documentUuid": "Compendium.pf2e.equipment-srd.6LnFu5L6vb8l5gD2",
+      "description": ""
+    },
+    {
+      "type": "document",
+      "img": "systems/pf2e/icons/equipment/consumables/elixirs/darkvision-elixir.webp",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_id": "364ce126bbd84bea",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "name": "Moderate Darkvision Elixir",
+      "documentUuid": "Compendium.pf2e.equipment-srd.6w9sJYjXpgBHRWTE",
+      "description": ""
+    },
+    {
+      "type": "document",
+      "img": "systems/pf2e/icons/equipment/alchemical-bombs/alchemists-fire.webp",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_id": "30aaad069e274f0d",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "name": "Greater Alchemist's Fire",
+      "documentUuid": "Compendium.pf2e.equipment-srd.TjFvCf8FX24HHZZ2",
+      "description": ""
+    },
+    {
+      "type": "document",
+      "img": "systems/pf2e/icons/equipment/consumables/mutagens/bestial-mutagen.webp",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_id": "fc0be40a143d4374",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "name": "Moderate Mutagen (Bestial)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.sQNLdapKE65lhF3V",
+      "description": ""
+    },
+    {
+      "type": "document",
+      "img": "systems/pf2e/icons/equipment/alchemical-bombs/bottled-lightning.webp",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_id": "271a421a3c92401f",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "name": "Bottled Lightning (Greater)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Pmu3mFKFnKT4ZnB3",
+      "description": ""
+    },
+    {
+      "type": "document",
+      "img": "systems/pf2e/icons/equipment/consumables/elixirs/eagle-eye-elixir.webp",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_id": "184dcd50e2d04119",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "name": "Eagle-Eye Elixir",
+      "documentUuid": "Compendium.pf2e.equipment-srd.3L8rWaXSpGlK8Y8E",
+      "description": ""
+    },
+    {
+      "type": "document",
+      "img": "systems/pf2e/icons/equipment/alchemical-bombs/acid-flask.webp",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_id": "42d3b53ece3247b0",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "name": "Moderate Acid Flask",
+      "documentUuid": "Compendium.pf2e.equipment-srd.TjFvCf8FX24HHZZ2",
+      "description": ""
+    },
+    {
+      "type": "document",
+      "img": "systems/pf2e/icons/equipment/consumables/elixirs/cats-eye-elixir.webp",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_id": "530f5e67bbe54ab9",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "name": "Cat's Eye Elixir",
+      "documentUuid": "Compendium.pf2e.equipment-srd.4R97DYyEq4RhQrJP",
+      "description": ""
+    },
+    {
+      "type": "document",
+      "img": "systems/pf2e/icons/equipment/alchemical-bombs/tanglefoot-bag.webp",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_id": "b12ea0d32bab4d14",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "name": "Greater Tanglefoot Bag",
+      "documentUuid": "Compendium.pf2e.equipment-srd.3knEUJuIAaRV02oN",
+      "description": ""
+    },
+    {
+      "type": "document",
+      "img": "systems/pf2e/icons/equipment/consumables/mutagens/cognitive-mutagen.webp",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_id": "5eff2447a84640e6",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "name": "Moderate Cognitive Mutagen",
+      "documentUuid": "Compendium.pf2e.equipment-srd.sQNLdapKE65lhF3V",
+      "description": ""
+    },
+    {
+      "type": "document",
+      "img": "systems/pf2e/icons/equipment/consumables/elixirs/bravos-brew.webp",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_id": "5c561b8a04f148db",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "name": "Bravo's Brew (Moderate)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.UmSKBr7yBk5VdKkF",
+      "description": ""
+    },
+    {
+      "type": "document",
+      "img": "systems/pf2e/icons/equipment/alchemical-bombs/frost-vial.webp",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_id": "4ed601f6bae743f7",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "name": "Frost Vial (Greater)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.TjFvCf8FX24HHZZ2",
+      "description": ""
+    },
+    {
+      "type": "document",
+      "img": "systems/pf2e/icons/equipment/consumables/mutagens/energy-mutagen.webp",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_id": "769e1941a5dd44ee",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "name": "Moderate Energy Mutagen",
+      "documentUuid": "Compendium.pf2e.equipment-srd.sQNLdapKE65lhF3V",
+      "description": ""
+    },
+    {
+      "type": "document",
+      "img": "systems/pf2e/icons/equipment/consumables/elixirs/comprehension-elixir.webp",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "_id": "8472a92000034801",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "name": "Comprehension Elixir",
+      "documentUuid": "Compendium.pf2e.equipment-srd.4R97DYyEq4RhQrJP",
+      "description": ""
+    },
+    {
+      "type": "document",
+      "img": "systems/pf2e/icons/equipment/alchemical-bombs/smokestick.webp",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "_id": "43ae322cf0874717",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "name": "Greater Smokestick",
+      "documentUuid": "Compendium.pf2e.equipment-srd.eB8j0vP0vBthwJvP",
+      "description": ""
+    },
+    {
+      "type": "document",
+      "img": "systems/pf2e/icons/equipment/consumables/mutagens/juggernaut-mutagen.webp",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "_id": "3250bd302cf148c0",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "name": "Moderate Juggernaut Mutagen",
+      "documentUuid": "Compendium.pf2e.equipment-srd.sQNLdapKE65lhF3V",
+      "description": ""
+    },
+    {
+      "type": "document",
+      "img": "systems/pf2e/icons/equipment/consumables/mutagens/silvertongue-mutagen.webp",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "_id": "5498552da5d94689",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "name": "Silvertongue Mutagen (Moderate)",
+      "documentUuid": "Compendium.pf2e.equipment-srd.sQNLdapKE65lhF3V",
+      "description": ""
+    },
+    {
+      "type": "document",
+      "img": "systems/pf2e/icons/equipment/consumables/potions/water-breathing.webp",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "_id": "b2829ff5fa254a67",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "name": "Potion of Water Breathing",
+      "documentUuid": "Compendium.pf2e.equipment-srd.NbWGkRLCZR3CaCbr",
+      "description": ""
+    },
+    {
+      "type": "document",
+      "img": "systems/pf2e/icons/equipment/alchemical-bombs/thunderstone.webp",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_id": "1a0af1749c7944bd",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.346",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "name": "Greater Thunderstone",
+      "documentUuid": "Compendium.pf2e.equipment-srd.3knEUJuIAaRV02oN",
+      "description": ""
+    }
+  ],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "13.346",
+    "systemId": "pf2e",
+    "systemVersion": "7.4.1",
+    "createdTime": null,
+    "modifiedTime": null,
+    "lastModifiedBy": null
+  }
+}
