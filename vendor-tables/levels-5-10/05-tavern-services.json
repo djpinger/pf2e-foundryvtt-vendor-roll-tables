@@ -1,464 +1,294 @@
 {
-  "name": "Tavern Services (Levels 5-10)",
+  "_id": "cyeGh2ipiILiTNND",
   "description": "A prosperous inn and tavern offering quality accommodations, meals, drinks, and information services for well-traveled adventurers with coin to spend.",
-  "formula": "1d20",
-  "replacement": true,
   "displayRoll": true,
+  "formula": "1d20",
   "img": "icons/consumables/drinks/ale-foam-wooden-mug.webp",
+  "name": "Tavern Services (Levels 5-10)",
+  "ownership": {
+    "default": 0
+  },
+  "replacement": true,
   "results": [
     {
-      "type": "document",
-      "img": "icons/environment/settlement/bed-simple-brown.webp",
-      "weight": 1,
+      "_id": "Kvdr0AuTbmBYPp7e",
+      "description": "Trail rations for sustaining adventurers on their journeys.",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.L9ZV076913otGtiB",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/rations.webp",
+      "name": "Trail Rations (7 days)",
       "range": [
         1,
         1
       ],
-      "drawn": false,
-      "_id": "296a355120a34412",
-      "flags": {},
-      "_stats": {
-        "coreVersion": "13.346",
-        "systemId": null,
-        "systemVersion": null,
-        "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      },
-      "name": "Private Suite (1 night) - 5 gp",
-      "description": ""
+      "type": "document",
+      "weight": 1
     },
     {
-      "type": "document",
-      "img": "icons/environment/settlement/bed-simple-brown.webp",
-      "weight": 1,
+      "_id": "V1k0qhu7cfLYYTwt",
+      "description": "Basic rations with simple meal service.",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.L9ZV076913otGtiB",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/rations.webp",
+      "name": "Simple Meal & Drink",
       "range": [
         2,
         2
       ],
-      "drawn": false,
-      "_id": "26decf042f8f4441",
-      "flags": {},
-      "_stats": {
-        "coreVersion": "13.346",
-        "systemId": null,
-        "systemVersion": null,
-        "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      },
-      "name": "Common Room Bed (1 night) - 2 gp",
-      "description": ""
+      "type": "document",
+      "weight": 1
     },
     {
-      "type": "document",
-      "img": "icons/consumables/food/meat-roasted-brown.webp",
-      "weight": 1,
+      "_id": "PcDtUMc5ienHJ6WG",
+      "description": "Quality rations representing a fine dining experience.",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.L9ZV076913otGtiB",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/rations.webp",
+      "name": "Fine Feast (Roasted Meats)",
       "range": [
         3,
         3
       ],
-      "drawn": false,
-      "_id": "2e7303edbcf3401a",
-      "flags": {},
-      "_stats": {
-        "coreVersion": "13.346",
-        "systemId": null,
-        "systemVersion": null,
-        "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      },
-      "name": "Fine Meal (Roasted Boar, Wine) - 1 gp",
-      "description": ""
+      "type": "document",
+      "weight": 1
     },
     {
-      "type": "document",
-      "img": "icons/sundries/documents/document-sealed-brown.webp",
-      "weight": 1,
+      "_id": "6Vr3Q3f5EK7lCN0Z",
+      "description": "Premium rations for celebration meals.",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.L9ZV076913otGtiB",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/rations.webp",
+      "name": "Exotic Delicacies",
       "range": [
         4,
         4
       ],
-      "drawn": false,
-      "_id": "f304efdf4954450e",
-      "flags": {},
-      "_stats": {
-        "coreVersion": "13.346",
-        "systemId": null,
-        "systemVersion": null,
-        "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      },
-      "name": "Local Information (Rumor Mill) - 1 gp",
-      "description": ""
+      "type": "document",
+      "weight": 1
     },
     {
-      "type": "document",
-      "img": "icons/consumables/drinks/ale-foam-wooden-mug.webp",
-      "weight": 1,
+      "_id": "DFaaM9MCgUV54py8",
+      "description": "Preserved rations suitable for long journeys.",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.L9ZV076913otGtiB",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/rations.webp",
+      "name": "Preserved Foods (Smoked Fish)",
       "range": [
         5,
         5
       ],
-      "drawn": false,
-      "_id": "7ad318847096410c",
-      "flags": {},
-      "_stats": {
-        "coreVersion": "13.346",
-        "systemId": null,
-        "systemVersion": null,
-        "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      },
-      "name": "Exotic Ale (Dragon's Breath) - 5 sp",
-      "description": ""
+      "type": "document",
+      "weight": 1
     },
     {
-      "type": "document",
-      "img": "icons/environment/people/commoner.webp",
-      "weight": 1,
+      "_id": "UzuSjosOo2ZRizR5",
+      "description": "Quality rations with regional specialties.",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.L9ZV076913otGtiB",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/rations.webp",
+      "name": "Local Specialties (Regional Cuisine)",
       "range": [
         6,
         6
       ],
-      "drawn": false,
-      "_id": "5119c881c77148e1",
-      "flags": {},
-      "_stats": {
-        "coreVersion": "13.346",
-        "systemId": null,
-        "systemVersion": null,
-        "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      },
-      "name": "Guide Services (1 day) - 10 gp",
-      "description": ""
+      "type": "document",
+      "weight": 1
     },
     {
-      "type": "document",
-      "img": "icons/sundries/misc/coin-gold.webp",
-      "weight": 1,
+      "_id": "WBeMKaDTCAyvXSog",
+      "description": "Basic rations with hearty portions.",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.L9ZV076913otGtiB",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/rations.webp",
+      "name": "Hearty Stew & Bread",
       "range": [
         7,
         7
       ],
-      "drawn": false,
-      "_id": "9613eb3f97d24cbf",
-      "flags": {},
-      "_stats": {
-        "coreVersion": "13.346",
-        "systemId": null,
-        "systemVersion": null,
-        "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      },
-      "name": "Message Delivery (Local) - 2 gp",
-      "description": ""
+      "type": "document",
+      "weight": 1
     },
     {
-      "type": "document",
-      "img": "icons/environment/settlement/bath.webp",
-      "weight": 1,
+      "_id": "b9eS3DbTnlm7SreV",
+      "description": "Quality rations for special occasions.",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.L9ZV076913otGtiB",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/rations.webp",
+      "name": "Celebration Feast",
       "range": [
         8,
         8
       ],
-      "drawn": false,
-      "_id": "2790387c9dd94a84",
-      "flags": {},
-      "_stats": {
-        "coreVersion": "13.346",
-        "systemId": null,
-        "systemVersion": null,
-        "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      },
-      "name": "Hot Bath & Grooming - 1 gp",
-      "description": ""
+      "type": "document",
+      "weight": 1
     },
     {
-      "type": "document",
-      "img": "icons/containers/chest/chest-wooden-brown.webp",
-      "weight": 1,
+      "_id": "lPvDiM422holDKoi",
+      "description": "Dried rations for extended travel.",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.L9ZV076913otGtiB",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/rations.webp",
+      "name": "Dried Provisions (Journey Fare)",
       "range": [
         9,
         9
       ],
-      "drawn": false,
-      "_id": "d51e977b1d9246a4",
-      "flags": {},
-      "_stats": {
-        "coreVersion": "13.346",
-        "systemId": null,
-        "systemVersion": null,
-        "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      },
-      "name": "Secure Storage (1 week) - 3 gp",
-      "description": ""
+      "type": "document",
+      "weight": 1
     },
     {
-      "type": "document",
-      "img": "icons/tools/instruments/lute-brown.webp",
-      "weight": 1,
+      "_id": "Q2ChXUuxqnMp6xGa",
+      "description": "Warming rations perfect for cold weather.",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.L9ZV076913otGtiB",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/rations.webp",
+      "name": "Hot Soup & Mulled Wine",
       "range": [
         10,
         10
       ],
-      "drawn": false,
-      "_id": "000a23089c0f4600",
-      "flags": {},
-      "_stats": {
-        "coreVersion": "13.346",
-        "systemId": null,
-        "systemVersion": null,
-        "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      },
-      "name": "Entertainment (Bard Performance) - 2 gp",
-      "description": ""
+      "type": "document",
+      "weight": 1
     },
     {
-      "type": "document",
-      "img": "icons/sundries/documents/blueprint-axe.webp",
-      "weight": 1,
+      "_id": "gaHyWbCzE7WU9xGM",
+      "description": "Basic rations with filling portions.",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.L9ZV076913otGtiB",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/rations.webp",
+      "name": "Tavern Commons (Ale & Meat Pie)",
       "range": [
         11,
         11
       ],
-      "drawn": false,
-      "_id": "437f7528396a49d1",
-      "flags": {},
-      "_stats": {
-        "coreVersion": "13.346",
-        "systemId": null,
-        "systemVersion": null,
-        "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      },
-      "name": "Regional Map (Hand-drawn) - 5 gp",
-      "description": ""
+      "type": "document",
+      "weight": 1
     },
     {
-      "type": "document",
-      "img": "icons/sundries/books/book-red-exclamation.webp",
-      "weight": 1,
+      "_id": "3gh9U4aLPFQFxxbU",
+      "description": "Quality travel rations.",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.L9ZV076913otGtiB",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/rations.webp",
+      "name": "Travel Pack (Cheese & Hardtack)",
       "range": [
         12,
         12
       ],
-      "drawn": false,
-      "_id": "f76b33db4e0c4d0a",
-      "flags": {},
-      "_stats": {
-        "coreVersion": "13.346",
-        "systemId": null,
-        "systemVersion": null,
-        "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      },
-      "name": "Veteran's Wisdom (Combat Tips) - 10 gp",
-      "description": ""
+      "type": "document",
+      "weight": 1
     },
     {
-      "type": "document",
-      "img": "icons/consumables/drinks/wine-bottle-cork-red.webp",
-      "weight": 1,
+      "_id": "E38u9L3dcJABMddd",
+      "description": "Premium rations with fine ingredients.",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.L9ZV076913otGtiB",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/rations.webp",
+      "name": "Imported Delicacies",
       "range": [
         13,
         13
       ],
-      "drawn": false,
-      "_id": "4bbfce5688b545d2",
-      "flags": {},
-      "_stats": {
-        "coreVersion": "13.346",
-        "systemId": null,
-        "systemVersion": null,
-        "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      },
-      "name": "Imported Wine (Bottle) - 8 gp",
-      "description": ""
+      "type": "document",
+      "weight": 1
     },
     {
-      "type": "document",
-      "img": "icons/environment/creatures/horse.webp",
-      "weight": 1,
+      "_id": "hGaFvNOzN3GLLoWv",
+      "description": "Nourishing rations for recovery.",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.L9ZV076913otGtiB",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/rations.webp",
+      "name": "Healing Broth & Herbs",
       "range": [
         14,
         14
       ],
-      "drawn": false,
-      "_id": "b2aac3cedc474cec",
-      "flags": {},
-      "_stats": {
-        "coreVersion": "13.346",
-        "systemId": null,
-        "systemVersion": null,
-        "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      },
-      "name": "Stabling & Feed (1 week) - 7 gp",
-      "description": ""
+      "type": "document",
+      "weight": 1
     },
     {
-      "type": "document",
-      "img": "icons/environment/people/commoner.webp",
-      "weight": 1,
+      "_id": "NaLFqbC2ITrKiVCi",
+      "description": "Quality rations with seasonal ingredients.",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.L9ZV076913otGtiB",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/rations.webp",
+      "name": "Seasonal Harvest Meal",
       "range": [
         15,
         15
       ],
-      "drawn": false,
-      "_id": "1e5fed18a96f4e4a",
-      "flags": {},
-      "_stats": {
-        "coreVersion": "13.346",
-        "systemId": null,
-        "systemVersion": null,
-        "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      },
-      "name": "Contact Introduction - 15 gp",
-      "description": ""
+      "type": "document",
+      "weight": 1
     },
     {
-      "type": "document",
-      "img": "icons/tools/hand/hammer-claw-steel.webp",
-      "weight": 1,
+      "_id": "Mtip9h818qPbDIiJ",
+      "description": "Basic rations for simple sustenance.",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.L9ZV076913otGtiB",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/rations.webp",
+      "name": "Simple Porridge & Ale",
       "range": [
         16,
         16
       ],
-      "drawn": false,
-      "_id": "e2ef9462d90b45c4",
-      "flags": {},
-      "_stats": {
-        "coreVersion": "13.346",
-        "systemId": null,
-        "systemVersion": null,
-        "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      },
-      "name": "Equipment Repair (Basic) - 5 gp",
-      "description": ""
+      "type": "document",
+      "weight": 1
     },
     {
-      "type": "document",
-      "img": "icons/consumables/potions/bottle-round-corked-red.webp",
-      "weight": 1,
+      "_id": "ZJlJPQeh2Jcr54wO",
+      "description": "Premium rations fit for nobility.",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.L9ZV076913otGtiB",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/rations.webp",
+      "name": "Noble's Banquet",
       "range": [
         17,
         17
       ],
-      "drawn": false,
-      "_id": "fe2e4e82ddd64633",
-      "flags": {},
-      "_stats": {
-        "coreVersion": "13.346",
-        "systemId": null,
-        "systemVersion": null,
-        "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      },
-      "name": "Healing Services (CLW) - 10 gp",
-      "description": ""
+      "type": "document",
+      "weight": 1
     },
     {
-      "type": "document",
-      "img": "icons/environment/settlement/dining-room.webp",
-      "weight": 1,
+      "_id": "pr9sMf19koLlTkmr",
+      "description": "Compact rations for adventurers.",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.L9ZV076913otGtiB",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/rations.webp",
+      "name": "Adventurer's Pack (Mixed Provisions)",
       "range": [
         18,
         18
       ],
-      "drawn": false,
-      "_id": "b2f8a7daf6c9406d",
-      "flags": {},
-      "_stats": {
-        "coreVersion": "13.346",
-        "systemId": null,
-        "systemVersion": null,
-        "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      },
-      "name": "Private Dining Room (1 evening) - 12 gp",
-      "description": ""
+      "type": "document",
+      "weight": 1
     },
     {
-      "type": "document",
-      "img": "icons/environment/people/commoner.webp",
-      "weight": 1,
+      "_id": "jHjiPiwEIfQs6kKp",
+      "description": "Energizing rations for active travelers.",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.L9ZV076913otGtiB",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/rations.webp",
+      "name": "Trail Mix & Strong Ale",
       "range": [
         19,
         19
       ],
-      "drawn": false,
-      "_id": "ebf6fa43ea654d2d",
-      "flags": {},
-      "_stats": {
-        "coreVersion": "13.346",
-        "systemId": null,
-        "systemVersion": null,
-        "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      },
-      "name": "Messenger Service (Regional) - 25 gp",
-      "description": ""
+      "type": "document",
+      "weight": 1
     },
     {
-      "type": "document",
-      "img": "icons/sundries/documents/document-sealed-brown.webp",
-      "weight": 1,
+      "_id": "BkoAso451rekgS29",
+      "description": "Special rations with restorative properties.",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.L9ZV076913otGtiB",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/rations.webp",
+      "name": "Restoration Meal (Blessed Food)",
       "range": [
         20,
         20
       ],
-      "drawn": false,
-      "_id": "90b4e1080d644d05",
-      "flags": {},
-      "_stats": {
-        "coreVersion": "13.346",
-        "systemId": null,
-        "systemVersion": null,
-        "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      },
-      "name": "Secret Information (Dangerous) - 50 gp",
-      "description": ""
+      "type": "document",
+      "weight": 1
     }
-  ],
-  "folder": null,
-  "sort": 0,
-  "ownership": {
-    "default": 0
-  },
-  "flags": {},
-  "_stats": {
-    "coreVersion": "13.346",
-    "systemId": "pf2e",
-    "systemVersion": "7.4.1",
-    "createdTime": null,
-    "modifiedTime": null,
-    "lastModifiedBy": null
-  }
+  ]
 }

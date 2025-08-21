@@ -1,476 +1,294 @@
 {
-  "name": "Exotic & Rare Goods (Levels 5-10)",
+  "_id": "eLua5htmfmcqfswx",
   "description": "A mysterious merchant dealing in unusual items, rare components, and exotic goods from distant lands. Perfect for adventurers seeking unique equipment and curiosities.",
-  "formula": "1d20",
-  "replacement": true,
   "displayRoll": true,
+  "formula": "1d20",
   "img": "icons/containers/chest/chest-worn-leather-red-tan.webp",
+  "name": "Exotic & Rare Goods (Levels 5-10)",
+  "ownership": {
+    "default": 0
+  },
+  "replacement": true,
   "results": [
     {
-      "type": "document",
-      "img": "systems/pf2e/icons/equipment/held-items/immovable-rod.webp",
-      "weight": 1,
+      "_id": "861L02hhhCjFlxG7",
+      "description": "A valuable green gemstone prized for its clarity.",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.oZYu6GMIIoOYW2Nh",
+      "drawn": false,
+      "img": "icons/commodities/gems/gem-rough-navette-green.webp",
+      "name": "Peridot",
       "range": [
         1,
         1
       ],
-      "drawn": false,
-      "_id": "2d24b623bee04829",
-      "flags": {},
-      "_stats": {
-        "coreVersion": "13.346",
-        "systemId": null,
-        "systemVersion": null,
-        "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      },
-      "name": "Immovable Rod",
-      "documentUuid": "Compendium.pf2e.equipment-srd.kqSvHKJGtg4K1uSh",
-      "description": ""
+      "type": "document",
+      "weight": 1
     },
     {
-      "type": "document",
-      "img": "icons/consumables/potions/bottle-round-corked-cyan.webp",
-      "weight": 1,
+      "_id": "DpPw6iO5x3x0ev2k",
+      "description": "A precious jade stone valued for its beauty and rarity.",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.LyQQvO7COYAvFRNw",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/treasure/gems/greater-semiprecious-stones/jade.webp",
+      "name": "Jade",
       "range": [
         2,
         2
       ],
-      "drawn": false,
-      "_id": "dc043d52df0048c3",
-      "flags": {},
-      "_stats": {
-        "coreVersion": "13.346",
-        "systemId": null,
-        "systemVersion": null,
-        "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      },
-      "name": "Sovereign Glue (1 vial)",
-      "documentUuid": "Compendium.pf2e.equipment-srd.FZVp4eV8eTuOCUY1",
-      "description": ""
+      "type": "document",
+      "weight": 1
     },
     {
-      "type": "document",
-      "img": "systems/pf2e/icons/equipment/held-items/portable-hole.webp",
-      "weight": 1,
+      "_id": "uniLfOVEejk5VFXP",
+      "description": "Clear crystal quartz with mystical properties.",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.qnK4cIHZ2irCV4BL",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/treasure/gems/lesser-semiprecious-stones/rock-crystal-quartz.webp",
+      "name": "Quartz, rock crystal",
       "range": [
         3,
         3
       ],
-      "drawn": false,
-      "_id": "c72684eb287a4194",
-      "flags": {},
-      "_stats": {
-        "coreVersion": "13.346",
-        "systemId": null,
-        "systemVersion": null,
-        "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      },
-      "name": "Portable Hole",
-      "documentUuid": "Compendium.pf2e.equipment-srd.NLsyCuJPpKCiY5FL",
-      "description": ""
+      "type": "document",
+      "weight": 1
     },
     {
-      "type": "document",
-      "img": "icons/commodities/materials/bone-carved-white.webp",
-      "weight": 1,
+      "_id": "GZd1oKa3v66gVs0r",
+      "description": "A dark metallic stone with unique properties.",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.02sF1QlxEx6H6zEP",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/treasure/gems/lesser-semiprecious-stones/hematite.webp",
+      "name": "Hematite",
       "range": [
         4,
         4
       ],
-      "drawn": false,
-      "_id": "6cc86743b2bf4a1d",
-      "flags": {},
-      "_stats": {
-        "coreVersion": "13.346",
-        "systemId": null,
-        "systemVersion": null,
-        "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      },
-      "name": "Dragon Bone (1 lb) - 50 gp",
-      "description": ""
+      "type": "document",
+      "weight": 1
     },
     {
-      "type": "document",
-      "img": "systems/pf2e/icons/equipment/held-items/deck-of-many-things.webp",
-      "weight": 1,
+      "_id": "FngmAuUQ0gytPaZq",
+      "description": "A powerful alchemical bomb made from crystalline materials.",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.ivaL0xt33k6QNwQK",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-bombs/crystal-shards.webp",
+      "name": "Crystal Shards (Greater)",
       "range": [
         5,
         5
       ],
-      "drawn": false,
-      "_id": "4c3b532beaea436f",
-      "flags": {},
-      "_stats": {
-        "coreVersion": "13.346",
-        "systemId": null,
-        "systemVersion": null,
-        "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      },
-      "name": "Deck of Many Things (Partial)",
-      "documentUuid": "Compendium.pf2e.equipment-srd.QdEkKLj8j9HErN9b",
-      "description": ""
+      "type": "document",
+      "weight": 1
     },
     {
-      "type": "document",
-      "img": "systems/pf2e/icons/equipment/held-items/feather-token.webp",
-      "weight": 1,
+      "_id": "W4nISjf5O1bQnHva",
+      "description": "A magical feather token that creates a mighty oak tree.",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.wRBz9mjTO9ZqXch6",
+      "drawn": false,
+      "img": "icons/commodities/materials/feather-blue.webp",
+      "name": "Feather Token (Tree) (Ammunition)",
       "range": [
         6,
         6
       ],
-      "drawn": false,
-      "_id": "95ee53bb00a54463",
-      "flags": {},
-      "_stats": {
-        "coreVersion": "13.346",
-        "systemId": null,
-        "systemVersion": null,
-        "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      },
-      "name": "Feather Token (Whip)",
-      "documentUuid": "Compendium.pf2e.equipment-srd.1YALQNxGaKCJL2uq",
-      "description": ""
+      "type": "document",
+      "weight": 1
     },
     {
-      "type": "document",
-      "img": "icons/consumables/potions/bottle-round-corked-cyan.webp",
-      "weight": 1,
+      "_id": "tj9F4fZInM8Qi9SQ",
+      "description": "A major elixir of life with powerful healing properties.",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.AmxSqEoFhRLMYd1W",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-elixirs/elixir-of-life.webp",
+      "name": "Elixir of Life (Major)",
       "range": [
         7,
         7
       ],
-      "drawn": false,
-      "_id": "754a27964c5f4a01",
-      "flags": {},
-      "_stats": {
-        "coreVersion": "13.346",
-        "systemId": null,
-        "systemVersion": null,
-        "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      },
-      "name": "Universal Solvent (1 vial)",
-      "documentUuid": "Compendium.pf2e.equipment-srd.FZVp4eV8eTuOCUY1",
-      "description": ""
+      "type": "document",
+      "weight": 1
     },
     {
-      "type": "document",
-      "img": "icons/commodities/materials/horn-unicorn-white.webp",
-      "weight": 1,
+      "_id": "xv3ajHb4XJkp899c",
+      "description": "Beautiful peridot gemstone from distant lands.",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.oZYu6GMIIoOYW2Nh",
+      "drawn": false,
+      "img": "icons/commodities/gems/gem-rough-navette-green.webp",
+      "name": "Peridot",
       "range": [
         8,
         8
       ],
-      "drawn": false,
-      "_id": "c1c3099904054a72",
-      "flags": {},
-      "_stats": {
-        "coreVersion": "13.346",
-        "systemId": null,
-        "systemVersion": null,
-        "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      },
-      "name": "Unicorn Horn (Powdered) - 100 gp",
-      "description": ""
+      "type": "document",
+      "weight": 1
     },
     {
-      "type": "document",
-      "img": "systems/pf2e/icons/equipment/held-items/necklace-of-fireballs.webp",
-      "weight": 1,
+      "_id": "vEmRVo0o62MLYc2x",
+      "description": "Precious jade carved with intricate designs.",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.LyQQvO7COYAvFRNw",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/treasure/gems/greater-semiprecious-stones/jade.webp",
+      "name": "Jade",
       "range": [
         9,
         9
       ],
-      "drawn": false,
-      "_id": "a5dca8893b1c4d7e",
-      "flags": {},
-      "_stats": {
-        "coreVersion": "13.346",
-        "systemId": null,
-        "systemVersion": null,
-        "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      },
-      "name": "Necklace of Fireballs (Type III)",
-      "documentUuid": "Compendium.pf2e.equipment-srd.zKYLNHBaWrDMJI3j",
-      "description": ""
+      "type": "document",
+      "weight": 1
     },
     {
-      "type": "document",
-      "img": "icons/commodities/materials/ingot-steel.webp",
-      "weight": 1,
+      "_id": "dAtWxstZgNhqm7UY",
+      "description": "A rare crystal with exceptional clarity and magical resonance.",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.qnK4cIHZ2irCV4BL",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/treasure/gems/lesser-semiprecious-stones/rock-crystal-quartz.webp",
+      "name": "Quartz, rock crystal",
       "range": [
         10,
         10
       ],
-      "drawn": false,
-      "_id": "2d7c9dcb213f4228",
-      "flags": {},
-      "_stats": {
-        "coreVersion": "13.346",
-        "systemId": null,
-        "systemVersion": null,
-        "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      },
-      "name": "Mithral Ingot (1 lb) - 500 gp",
-      "description": ""
+      "type": "document",
+      "weight": 1
     },
     {
-      "type": "document",
-      "img": "systems/pf2e/icons/equipment/held-items/folding-boat.webp",
-      "weight": 1,
+      "_id": "dJeDUvNMmfLEJD52",
+      "description": "Dark hematite stone used in magical rituals.",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.02sF1QlxEx6H6zEP",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/treasure/gems/lesser-semiprecious-stones/hematite.webp",
+      "name": "Hematite",
       "range": [
         11,
         11
       ],
-      "drawn": false,
-      "_id": "3e66b6a528734043",
-      "flags": {},
-      "_stats": {
-        "coreVersion": "13.346",
-        "systemId": null,
-        "systemVersion": null,
-        "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      },
-      "name": "Folding Boat",
-      "documentUuid": "Compendium.pf2e.equipment-srd.FZVp4eV8eTuOCUY1",
-      "description": ""
+      "type": "document",
+      "weight": 1
     },
     {
-      "type": "document",
-      "img": "icons/commodities/materials/feather-phoenix-orange.webp",
-      "weight": 1,
+      "_id": "G4BM4CCCjD4Xw2mQ",
+      "description": "Crystalline explosive device favored by alchemists.",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.ivaL0xt33k6QNwQK",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-bombs/crystal-shards.webp",
+      "name": "Crystal Shards (Greater)",
       "range": [
         12,
         12
       ],
-      "drawn": false,
-      "_id": "061f3a3b77c24850",
-      "flags": {},
-      "_stats": {
-        "coreVersion": "13.346",
-        "systemId": null,
-        "systemVersion": null,
-        "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      },
-      "name": "Phoenix Feather - 75 gp",
-      "description": ""
+      "type": "document",
+      "weight": 1
     },
     {
-      "type": "document",
-      "img": "systems/pf2e/icons/equipment/held-items/handy-haversack.webp",
-      "weight": 1,
+      "_id": "iZ2NvAqr6QNbIFDS",
+      "description": "Enchanted feather that blooms into a living tree.",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.wRBz9mjTO9ZqXch6",
+      "drawn": false,
+      "img": "icons/commodities/materials/feather-blue.webp",
+      "name": "Feather Token (Tree) (Ammunition)",
       "range": [
         13,
         13
       ],
-      "drawn": false,
-      "_id": "5b534101804446c0",
-      "flags": {},
-      "_stats": {
-        "coreVersion": "13.346",
-        "systemId": null,
-        "systemVersion": null,
-        "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      },
-      "name": "Handy Haversack",
-      "documentUuid": "Compendium.pf2e.equipment-srd.0dmLqQcWl6flWDPr",
-      "description": ""
+      "type": "document",
+      "weight": 1
     },
     {
-      "type": "document",
-      "img": "icons/consumables/potions/bottle-round-corked-red.webp",
-      "weight": 1,
+      "_id": "tFfT2iGLWXsTai46",
+      "description": "Potent life-restoring elixir of incredible value.",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.AmxSqEoFhRLMYd1W",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-elixirs/elixir-of-life.webp",
+      "name": "Elixir of Life (Major)",
       "range": [
         14,
         14
       ],
-      "drawn": false,
-      "_id": "a3b7d5571b4745a6",
-      "flags": {},
-      "_stats": {
-        "coreVersion": "13.346",
-        "systemId": null,
-        "systemVersion": null,
-        "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      },
-      "name": "Demon Blood (1 vial) - 25 gp",
-      "description": ""
+      "type": "document",
+      "weight": 1
     },
     {
-      "type": "document",
-      "img": "systems/pf2e/icons/equipment/held-items/rope-of-climbing.webp",
-      "weight": 1,
+      "_id": "TKV46tQ8WPWRoewP",
+      "description": "Lustrous green peridot of exceptional quality.",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.oZYu6GMIIoOYW2Nh",
+      "drawn": false,
+      "img": "icons/commodities/gems/gem-rough-navette-green.webp",
+      "name": "Peridot",
       "range": [
         15,
         15
       ],
-      "drawn": false,
-      "_id": "6e296a1108d24478",
-      "flags": {},
-      "_stats": {
-        "coreVersion": "13.346",
-        "systemId": null,
-        "systemVersion": null,
-        "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      },
-      "name": "Rope of Climbing",
-      "documentUuid": "Compendium.pf2e.equipment-srd.Y7nHNfRt7KcA7P5Z",
-      "description": ""
+      "type": "document",
+      "weight": 1
     },
     {
-      "type": "document",
-      "img": "icons/consumables/potions/bottle-round-corked-green.webp",
-      "weight": 1,
+      "_id": "PWbYgRGpPeMh89jj",
+      "description": "Sacred jade stone from ancient temples.",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.LyQQvO7COYAvFRNw",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/treasure/gems/greater-semiprecious-stones/jade.webp",
+      "name": "Jade",
       "range": [
         16,
         16
       ],
-      "drawn": false,
-      "_id": "fefb67d27036490b",
-      "flags": {},
-      "_stats": {
-        "coreVersion": "13.346",
-        "systemId": null,
-        "systemVersion": null,
-        "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      },
-      "name": "Troll Blood (1 vial) - 35 gp",
-      "description": ""
+      "type": "document",
+      "weight": 1
     },
     {
-      "type": "document",
-      "img": "systems/pf2e/icons/equipment/worn-items/other-worn-items/cloak-of-the-manta-ray.webp",
-      "weight": 1,
+      "_id": "38BdMMQl3kh7fLr2",
+      "description": "Pure crystal quartz suitable for magical enhancement.",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.qnK4cIHZ2irCV4BL",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/treasure/gems/lesser-semiprecious-stones/rock-crystal-quartz.webp",
+      "name": "Quartz, rock crystal",
       "range": [
         17,
         17
       ],
-      "drawn": false,
-      "_id": "77b6b05132484a99",
-      "flags": {},
-      "_stats": {
-        "coreVersion": "13.346",
-        "systemId": null,
-        "systemVersion": null,
-        "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      },
-      "name": "Cloak of the Manta Ray",
-      "documentUuid": "Compendium.pf2e.equipment-srd.BCRGlJRJ8nEYejYF",
-      "description": ""
+      "type": "document",
+      "weight": 1
     },
     {
-      "type": "document",
-      "img": "icons/commodities/materials/ore-rough-black.webp",
-      "weight": 1,
+      "_id": "v8Ib3VH2Lvwj1tQ7",
+      "description": "Iron-rich hematite with magnetic properties.",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.02sF1QlxEx6H6zEP",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/treasure/gems/lesser-semiprecious-stones/hematite.webp",
+      "name": "Hematite",
       "range": [
         18,
         18
       ],
-      "drawn": false,
-      "_id": "4bc93283e8644274",
-      "flags": {},
-      "_stats": {
-        "coreVersion": "13.346",
-        "systemId": null,
-        "systemVersion": null,
-        "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      },
-      "name": "Adamantine Ore (1 lb) - 1000 gp",
-      "description": ""
+      "type": "document",
+      "weight": 1
     },
     {
-      "type": "document",
-      "img": "systems/pf2e/icons/equipment/consumables/elixirs/elixir-of-life.webp",
-      "weight": 1,
+      "_id": "9bIo3v3a0eCSHqid",
+      "description": "Dangerous crystalline weapon for experienced users.",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.ivaL0xt33k6QNwQK",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-bombs/crystal-shards.webp",
+      "name": "Crystal Shards (Greater)",
       "range": [
         19,
         19
       ],
-      "drawn": false,
-      "_id": "2012ad3720a54884",
-      "flags": {},
-      "_stats": {
-        "coreVersion": "13.346",
-        "systemId": null,
-        "systemVersion": null,
-        "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      },
-      "name": "Elixir of Life (Lesser)",
-      "documentUuid": "Compendium.pf2e.equipment-srd.4R97DYyEq4RhQrJP",
-      "description": ""
+      "type": "document",
+      "weight": 1
     },
     {
-      "type": "document",
-      "img": "icons/commodities/materials/stone-rune-gray.webp",
-      "weight": 1,
+      "_id": "WEYK4behIPBchUm9",
+      "description": "Rare magical token containing ancient forest magic.",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.wRBz9mjTO9ZqXch6",
+      "drawn": false,
+      "img": "icons/commodities/materials/feather-blue.webp",
+      "name": "Feather Token (Tree) (Ammunition)",
       "range": [
         20,
         20
       ],
-      "drawn": false,
-      "_id": "5d9b534cf0944055",
-      "flags": {},
-      "_stats": {
-        "coreVersion": "13.346",
-        "systemId": null,
-        "systemVersion": null,
-        "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      },
-      "name": "Ancient Artifact Fragment - 500 gp",
-      "description": ""
+      "type": "document",
+      "weight": 1
     }
-  ],
-  "folder": null,
-  "sort": 0,
-  "ownership": {
-    "default": 0
-  },
-  "flags": {},
-  "_stats": {
-    "coreVersion": "13.346",
-    "systemId": "pf2e",
-    "systemVersion": "7.4.1",
-    "createdTime": null,
-    "modifiedTime": null,
-    "lastModifiedBy": null
-  }
+  ]
 }

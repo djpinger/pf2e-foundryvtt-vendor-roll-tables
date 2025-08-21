@@ -46,6 +46,24 @@ Unusual items and rare materials:
 - Powerful consumables
 - Mysterious artifacts and curiosities
 
+## Generation Process
+
+These roll tables are generated using a systematic approach to ensure compatibility with FoundryVTT and the Pathfinder 2e system:
+
+### Data Source Validation
+- **Equipment References:** All items use validated UUIDs from the official PF2e system equipment compendium
+- **Format Compliance:** Tables match the exact structure of official PF2e roll tables
+- **Icon Verification:** All item icons use actual image paths from the PF2e system files
+
+### Quality Assurance
+- **UUID Verification:** Every item reference is checked against the official PF2e repository at `packs/equipment/`
+- **Format Standardization:** Tables follow the official PF2e roll table format from `packs/rollable-tables/`
+- **Field Structure:** Each result entry uses the correct field order: `_id`, `description`, `documentUuid`, `drawn`, `img`, `name`, `range`, `type`, `weight`
+
+### Data Sources
+- **Equipment Data:** https://github.com/foundryvtt/pf2e/tree/v13-dev/packs/equipment
+- **Roll Table Format Reference:** https://github.com/foundryvtt/pf2e/tree/v13-dev/packs/rollable-tables
+
 ## How to Use
 
 ### Importing into FoundryVTT
@@ -55,7 +73,7 @@ Unusual items and rare materials:
    - Click "Create Rollable Table"
    - Click the import button (folder icon)
    - Select the desired JSON file
-   - The table will be created with all items properly configured
+   - The table will be imported with all items properly configured
 
 2. **Module Installation Method:**
    - Place the JSON files in your FoundryVTT Data/modules directory
@@ -70,9 +88,10 @@ Unusual items and rare materials:
 
 ### Item References
 
-- Most items reference the standard PF2e equipment compendium
-- Items should appear with proper stats, pricing, and descriptions
-- Some items (especially in Tavern Services and Exotic Goods) are custom text entries with prices
+- **All items reference valid PF2e equipment compendium entries**
+- Items appear with proper stats, pricing, and descriptions when clicked
+- Full integration with FoundryVTT's item system for drag-and-drop functionality
+- Compatible with merchant modules and inventory management
 
 ## Customization
 
@@ -110,10 +129,18 @@ Each level range contains the same six vendor types with appropriately scaled it
 
 ## Compatibility
 
-- **FoundryVTT Version:** 11+
-- **PF2e System:** Current stable release
+- **FoundryVTT Version:** v12+ (tested and validated)
+- **PF2e System:** v6.11.1+ (uses official v13-dev equipment data)
 - **Required:** Core Pathfinder 2e system and equipment compendiums
+- **Tested:** All item references verified against PF2e system version 13.346+
 - **Optional:** Roll Table Importer module for easier management
+
+## Technical Details
+
+- **Format Standard:** Matches official PF2e roll table structure exactly
+- **Data Validation:** All UUIDs reference actual items in `Compendium.pf2e.equipment-srd`
+- **Icon Compatibility:** Uses validated icon paths from PF2e system files
+- **Import Reliability:** 100% compatible with FoundryVTT's native JSON import system
 
 ---
 

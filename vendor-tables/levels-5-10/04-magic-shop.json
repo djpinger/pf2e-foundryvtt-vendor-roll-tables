@@ -1,484 +1,294 @@
 {
-  "name": "Magic Shop (Levels 5-10)",
+  "_id": "gMeQ34VllHERV72r",
   "description": "A mystical emporium filled with scrolls, wands, staves, and enchanted items. The proprietor specializes in magical implements and consumables for experienced spellcasters and adventurers.",
-  "formula": "1d20",
-  "replacement": true,
   "displayRoll": true,
+  "formula": "1d20",
   "img": "icons/magic/symbols/runes-star-pentagon-blue.webp",
+  "name": "Magic Shop (Levels 5-10)",
+  "ownership": {
+    "default": 0
+  },
+  "replacement": true,
   "results": [
     {
-      "type": "document",
-      "img": "systems/pf2e/icons/equipment/consumables/scrolls/spell-scroll.webp",
-      "weight": 1,
+      "_id": "3q9KafMxkvEHPW4I",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.Y7UD64foDbDMV9sx",
+      "drawn": false,
+      "img": "icons/sundries/scrolls/scroll-symbol-eye-brown.webp",
+      "name": "Scroll of 2nd-rank Spell",
       "range": [
         1,
         1
       ],
-      "drawn": false,
-      "_id": "405c2d0df8d54577",
-      "flags": {},
-      "_stats": {
-        "coreVersion": "13.346",
-        "systemId": null,
-        "systemVersion": null,
-        "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      },
-      "name": "Scroll of Fireball (3rd level)",
-      "documentUuid": "Compendium.pf2e.equipment-srd.RjuupS9xyXDLgyIr",
-      "description": ""
+      "type": "document",
+      "weight": 1
     },
     {
-      "type": "document",
-      "img": "systems/pf2e/icons/equipment/held-items/magic-wand.webp",
-      "weight": 1,
+      "_id": "ob4DtgVRwXnZ6uTF",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.ZmefGBXGJF3CFDbn",
+      "drawn": false,
+      "img": "icons/sundries/scrolls/scroll-symbol-eye-brown.webp",
+      "name": "Scroll of 3rd-rank Spell",
       "range": [
         2,
         2
       ],
-      "drawn": false,
-      "_id": "ea6d74e0eded4b31",
-      "flags": {},
-      "_stats": {
-        "coreVersion": "13.346",
-        "systemId": null,
-        "systemVersion": null,
-        "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      },
-      "name": "Wand of Magic Missiles (3rd level)",
-      "documentUuid": "Compendium.pf2e.equipment-srd.UJWiN0K3jqVjxvKk",
-      "description": ""
+      "type": "document",
+      "weight": 1
     },
     {
-      "type": "document",
-      "img": "systems/pf2e/icons/equipment/held-items/bag-of-holding.webp",
-      "weight": 1,
+      "_id": "2ctZs4b3Uu3iLhEr",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.vJZ49cgi8szuQXAD",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/wands/magic-wands/magic-wand.webp",
+      "name": "Magic Wand (2nd-Rank Spell)",
       "range": [
         3,
         3
       ],
-      "drawn": false,
-      "_id": "c474d0dad7a741d1",
-      "flags": {},
-      "_stats": {
-        "coreVersion": "13.346",
-        "systemId": null,
-        "systemVersion": null,
-        "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      },
-      "name": "Bag of Holding (Type II)",
-      "documentUuid": "Compendium.pf2e.equipment-srd.0dmLqQcWl6flWDPr",
-      "description": ""
+      "type": "document",
+      "weight": 1
     },
     {
-      "type": "document",
-      "img": "systems/pf2e/icons/equipment/worn-items/other-worn-items/cloak-of-elvenkind.webp",
-      "weight": 1,
+      "_id": "JnfiIQzattkHdPXo",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.wrDmWkGxmwzYtfiA",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/wands/magic-wands/magic-wand.webp",
+      "name": "Magic Wand (3rd-Rank Spell)",
       "range": [
         4,
         4
       ],
-      "drawn": false,
-      "_id": "5cf0328a95ec4517",
-      "flags": {},
-      "_stats": {
-        "coreVersion": "13.346",
-        "systemId": null,
-        "systemVersion": null,
-        "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      },
-      "name": "Cloak of Elvenkind",
-      "documentUuid": "Compendium.pf2e.equipment-srd.BCRGlJRJ8nEYejYF",
-      "description": ""
+      "type": "document",
+      "weight": 1
     },
     {
-      "type": "document",
-      "img": "systems/pf2e/icons/equipment/held-items/staff.webp",
-      "weight": 1,
+      "_id": "SDkrp3SWD4cJd0EW",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.jaEEvuQ32GjAa8jy",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/held-items/bag-of-holding.webp",
+      "name": "Spacious Pouch (Type I)",
       "range": [
         5,
         5
       ],
-      "drawn": false,
-      "_id": "d1c71317ef72496e",
-      "flags": {},
-      "_stats": {
-        "coreVersion": "13.346",
-        "systemId": null,
-        "systemVersion": null,
-        "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      },
-      "name": "Staff of Fire (Greater)",
-      "documentUuid": "Compendium.pf2e.equipment-srd.XLKyJLrCWXwYkvOF",
-      "description": ""
+      "type": "document",
+      "weight": 1
     },
     {
-      "type": "document",
-      "img": "systems/pf2e/icons/equipment/consumables/scrolls/spell-scroll.webp",
-      "weight": 1,
+      "_id": "vEpEUQTgu2r56P4k",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.MNBnZn0b80Q7yHJM",
+      "drawn": false,
+      "img": "icons/equipment/back/cloak-collared-feathers-green.webp",
+      "name": "Cloak of Elvenkind",
       "range": [
         6,
         6
       ],
-      "drawn": false,
-      "_id": "01f4e15c70b84b2f",
-      "flags": {},
-      "_stats": {
-        "coreVersion": "13.346",
-        "systemId": null,
-        "systemVersion": null,
-        "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      },
-      "name": "Scroll of Dispel Magic (4th level)",
-      "documentUuid": "Compendium.pf2e.equipment-srd.RjuupS9xyXDLgyIr",
-      "description": ""
+      "type": "document",
+      "weight": 1
     },
     {
-      "type": "document",
-      "img": "systems/pf2e/icons/equipment/worn-items/other-worn-items/bracers-of-armor.webp",
-      "weight": 1,
+      "_id": "6MvFh0G3qad63pHW",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.faKyy6ETkDgrUnvf",
+      "drawn": false,
+      "img": "icons/equipment/finger/ring-band-engraved-silver.webp",
+      "name": "Ring of Wizardry (Type I)",
       "range": [
         7,
         7
       ],
-      "drawn": false,
-      "_id": "df9b5455c4904d16",
-      "flags": {},
-      "_stats": {
-        "coreVersion": "13.346",
-        "systemId": null,
-        "systemVersion": null,
-        "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      },
-      "name": "Bracers of Armor (+2)",
-      "documentUuid": "Compendium.pf2e.equipment-srd.PCuKdFynjwZt0yul",
-      "description": ""
+      "type": "document",
+      "weight": 1
     },
     {
-      "type": "document",
-      "img": "systems/pf2e/icons/equipment/held-items/magic-wand.webp",
-      "weight": 1,
+      "_id": "guxLHF016UyCRWZ8",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.Y7UD64foDbDMV9sx",
+      "drawn": false,
+      "img": "icons/sundries/scrolls/scroll-symbol-eye-brown.webp",
+      "name": "Scroll of 2nd-rank Spell",
       "range": [
         8,
         8
       ],
-      "drawn": false,
-      "_id": "9f322dd947364aed",
-      "flags": {},
-      "_stats": {
-        "coreVersion": "13.346",
-        "systemId": null,
-        "systemVersion": null,
-        "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      },
-      "name": "Wand of Heal (2nd level)",
-      "documentUuid": "Compendium.pf2e.equipment-srd.UJWiN0K3jqVjxvKk",
-      "description": ""
+      "type": "document",
+      "weight": 1
     },
     {
-      "type": "document",
-      "img": "systems/pf2e/icons/equipment/worn-items/other-worn-items/ring-of-protection.webp",
-      "weight": 1,
+      "_id": "kJY2VF0rQsWcwJ0I",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.ZmefGBXGJF3CFDbn",
+      "drawn": false,
+      "img": "icons/sundries/scrolls/scroll-symbol-eye-brown.webp",
+      "name": "Scroll of 3rd-rank Spell",
       "range": [
         9,
         9
       ],
-      "drawn": false,
-      "_id": "188a188c3ef44d8b",
-      "flags": {},
-      "_stats": {
-        "coreVersion": "13.346",
-        "systemId": null,
-        "systemVersion": null,
-        "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      },
-      "name": "Ring of Protection",
-      "documentUuid": "Compendium.pf2e.equipment-srd.gfPjmG6Fe728JAKC",
-      "description": ""
+      "type": "document",
+      "weight": 1
     },
     {
-      "type": "document",
-      "img": "systems/pf2e/icons/equipment/consumables/scrolls/spell-scroll.webp",
-      "weight": 1,
+      "_id": "mIPbBCluI7nibXyi",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.vJZ49cgi8szuQXAD",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/wands/magic-wands/magic-wand.webp",
+      "name": "Magic Wand (2nd-Rank Spell)",
       "range": [
         10,
         10
       ],
-      "drawn": false,
-      "_id": "23ea36ef9f864a4f",
-      "flags": {},
-      "_stats": {
-        "coreVersion": "13.346",
-        "systemId": null,
-        "systemVersion": null,
-        "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      },
-      "name": "Scroll of Invisibility (4th level)",
-      "documentUuid": "Compendium.pf2e.equipment-srd.RjuupS9xyXDLgyIr",
-      "description": ""
+      "type": "document",
+      "weight": 1
     },
     {
-      "type": "document",
-      "img": "systems/pf2e/icons/equipment/worn-items/other-worn-items/amulet-of-natural-armor.webp",
-      "weight": 1,
+      "_id": "mFScbHEdvO3xtt9P",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.wrDmWkGxmwzYtfiA",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/wands/magic-wands/magic-wand.webp",
+      "name": "Magic Wand (3rd-Rank Spell)",
       "range": [
         11,
         11
       ],
-      "drawn": false,
-      "_id": "cb02d95daa9a4f16",
-      "flags": {},
-      "_stats": {
-        "coreVersion": "13.346",
-        "systemId": null,
-        "systemVersion": null,
-        "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      },
-      "name": "Amulet of Natural Armor (+1)",
-      "documentUuid": "Compendium.pf2e.equipment-srd.vuO5yLz6oFGTGDsz",
-      "description": ""
+      "type": "document",
+      "weight": 1
     },
     {
-      "type": "document",
-      "img": "systems/pf2e/icons/equipment/held-items/magic-wand.webp",
-      "weight": 1,
+      "_id": "XgvIDnxFKW2166tZ",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.jaEEvuQ32GjAa8jy",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/held-items/bag-of-holding.webp",
+      "name": "Spacious Pouch (Type I)",
       "range": [
         12,
         12
       ],
-      "drawn": false,
-      "_id": "eedb57d421a842e1",
-      "flags": {},
-      "_stats": {
-        "coreVersion": "13.346",
-        "systemId": null,
-        "systemVersion": null,
-        "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      },
-      "name": "Wand of Lightning Bolt (3rd level)",
-      "documentUuid": "Compendium.pf2e.equipment-srd.UJWiN0K3jqVjxvKk",
-      "description": ""
+      "type": "document",
+      "weight": 1
     },
     {
-      "type": "document",
-      "img": "systems/pf2e/icons/equipment/worn-items/other-worn-items/hat-of-disguise.webp",
-      "weight": 1,
+      "_id": "a8TMfQ5Myr3bjCyp",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.MNBnZn0b80Q7yHJM",
+      "drawn": false,
+      "img": "icons/equipment/back/cloak-collared-feathers-green.webp",
+      "name": "Cloak of Elvenkind",
       "range": [
         13,
         13
       ],
-      "drawn": false,
-      "_id": "893b9e19877d4162",
-      "flags": {},
-      "_stats": {
-        "coreVersion": "13.346",
-        "systemId": null,
-        "systemVersion": null,
-        "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      },
-      "name": "Hat of Disguise",
-      "documentUuid": "Compendium.pf2e.equipment-srd.YGVGgcF3vBcFXAhA",
-      "description": ""
+      "type": "document",
+      "weight": 1
     },
     {
-      "type": "document",
-      "img": "systems/pf2e/icons/equipment/consumables/scrolls/spell-scroll.webp",
-      "weight": 1,
+      "_id": "C8N8cmnRKH8lpxtl",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.Y7UD64foDbDMV9sx",
+      "drawn": false,
+      "img": "icons/sundries/scrolls/scroll-symbol-eye-brown.webp",
+      "name": "Scroll of 2nd-rank Spell",
       "range": [
         14,
         14
       ],
-      "drawn": false,
-      "_id": "9e3c279a23534964",
-      "flags": {},
-      "_stats": {
-        "coreVersion": "13.346",
-        "systemId": null,
-        "systemVersion": null,
-        "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      },
-      "name": "Scroll of Fly (3rd level)",
-      "documentUuid": "Compendium.pf2e.equipment-srd.RjuupS9xyXDLgyIr",
-      "description": ""
+      "type": "document",
+      "weight": 1
     },
     {
-      "type": "document",
-      "img": "systems/pf2e/icons/equipment/worn-items/other-worn-items/boots-of-speed.webp",
-      "weight": 1,
+      "_id": "yznGhsifxle1d9x2",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.ZmefGBXGJF3CFDbn",
+      "drawn": false,
+      "img": "icons/sundries/scrolls/scroll-symbol-eye-brown.webp",
+      "name": "Scroll of 3rd-rank Spell",
       "range": [
         15,
         15
       ],
-      "drawn": false,
-      "_id": "f257dae6aeb648b0",
-      "flags": {},
-      "_stats": {
-        "coreVersion": "13.346",
-        "systemId": null,
-        "systemVersion": null,
-        "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      },
-      "name": "Boots of Speed",
-      "documentUuid": "Compendium.pf2e.equipment-srd.EV4VpGXQUKgGgCu1",
-      "description": ""
+      "type": "document",
+      "weight": 1
     },
     {
-      "type": "document",
-      "img": "systems/pf2e/icons/equipment/held-items/staff.webp",
-      "weight": 1,
+      "_id": "b157DcRvZdI81XO2",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.vJZ49cgi8szuQXAD",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/wands/magic-wands/magic-wand.webp",
+      "name": "Magic Wand (2nd-Rank Spell)",
       "range": [
         16,
         16
       ],
-      "drawn": false,
-      "_id": "e7a554fbd6464a9c",
-      "flags": {},
-      "_stats": {
-        "coreVersion": "13.346",
-        "systemId": null,
-        "systemVersion": null,
-        "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      },
-      "name": "Staff of Healing (Greater)",
-      "documentUuid": "Compendium.pf2e.equipment-srd.XLKyJLrCWXwYkvOF",
-      "description": ""
+      "type": "document",
+      "weight": 1
     },
     {
-      "type": "document",
-      "img": "systems/pf2e/icons/equipment/consumables/scrolls/spell-scroll.webp",
-      "weight": 1,
+      "_id": "9XLNzkCuiMid4CKC",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.wrDmWkGxmwzYtfiA",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/wands/magic-wands/magic-wand.webp",
+      "name": "Magic Wand (3rd-Rank Spell)",
       "range": [
         17,
         17
       ],
-      "drawn": false,
-      "_id": "9e3cefdcbe724a01",
-      "flags": {},
-      "_stats": {
-        "coreVersion": "13.346",
-        "systemId": null,
-        "systemVersion": null,
-        "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      },
-      "name": "Scroll of Teleport (5th level)",
-      "documentUuid": "Compendium.pf2e.equipment-srd.RjuupS9xyXDLgyIr",
-      "description": ""
+      "type": "document",
+      "weight": 1
     },
     {
-      "type": "document",
-      "img": "systems/pf2e/icons/equipment/worn-items/other-worn-items/headband-of-inspired-wisdom.webp",
-      "weight": 1,
+      "_id": "pnsV64auqt2WZ4jR",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.faKyy6ETkDgrUnvf",
+      "drawn": false,
+      "img": "icons/equipment/finger/ring-band-engraved-silver.webp",
+      "name": "Ring of Wizardry (Type I)",
       "range": [
         18,
         18
       ],
-      "drawn": false,
-      "_id": "70bb9bc765e74bd7",
-      "flags": {},
-      "_stats": {
-        "coreVersion": "13.346",
-        "systemId": null,
-        "systemVersion": null,
-        "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      },
-      "name": "Headband of Inspired Wisdom (+2)",
-      "documentUuid": "Compendium.pf2e.equipment-srd.k2rUXuBqUdcQNBsm",
-      "description": ""
+      "type": "document",
+      "weight": 1
     },
     {
-      "type": "document",
-      "img": "systems/pf2e/icons/equipment/held-items/magic-wand.webp",
-      "weight": 1,
+      "_id": "Zu1SmybsvU4WzNuD",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.jaEEvuQ32GjAa8jy",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/held-items/bag-of-holding.webp",
+      "name": "Spacious Pouch (Type I)",
       "range": [
         19,
         19
       ],
-      "drawn": false,
-      "_id": "aa6f692efcfe4c04",
-      "flags": {},
-      "_stats": {
-        "coreVersion": "13.346",
-        "systemId": null,
-        "systemVersion": null,
-        "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      },
-      "name": "Wand of Restoration (Lesser)",
-      "documentUuid": "Compendium.pf2e.equipment-srd.UJWiN0K3jqVjxvKk",
-      "description": ""
+      "type": "document",
+      "weight": 1
     },
     {
-      "type": "document",
-      "img": "systems/pf2e/icons/equipment/consumables/scrolls/spell-scroll.webp",
-      "weight": 1,
+      "_id": "jyTd6dA18mTiC5e2",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.MNBnZn0b80Q7yHJM",
+      "drawn": false,
+      "img": "icons/equipment/back/cloak-collared-feathers-green.webp",
+      "name": "Cloak of Elvenkind",
       "range": [
         20,
         20
       ],
-      "drawn": false,
-      "_id": "83fc6a8b81bd4b6c",
-      "flags": {},
-      "_stats": {
-        "coreVersion": "13.346",
-        "systemId": null,
-        "systemVersion": null,
-        "createdTime": null,
-        "modifiedTime": null,
-        "lastModifiedBy": null
-      },
-      "name": "Scroll of Wall of Fire (4th level)",
-      "documentUuid": "Compendium.pf2e.equipment-srd.RjuupS9xyXDLgyIr",
-      "description": ""
+      "type": "document",
+      "weight": 1
     }
-  ],
-  "folder": null,
-  "sort": 0,
-  "ownership": {
-    "default": 0
-  },
-  "flags": {},
-  "_stats": {
-    "coreVersion": "13.346",
-    "systemId": "pf2e",
-    "systemVersion": "7.4.1",
-    "createdTime": null,
-    "modifiedTime": null,
-    "lastModifiedBy": null
-  }
+  ]
 }
