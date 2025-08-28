@@ -1,0 +1,296 @@
+{
+  "_id": "k5bG37570BbflxR2",
+  "description": "A basic general store catering to beginning adventurers. Contains essential gear, tools, and supplies for characters between levels 1-5.",
+  "displayRoll": true,
+  "formula": "1d20",
+  "img": "icons/containers/bags/pack-leather-white-tan.webp",
+  "name": "General Store (Levels 1-5)",
+  "ownership": {
+    "default": 0
+  },
+  "replacement": true,
+  "results": [
+    {
+      "_id": "6bca04a196464f0a",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.dIRZ0LL7G31fJNYz",
+      "drawn": false,
+      "img": "icons/sundries/lights/lantern-iron-yellow.webp",
+      "name": "Lantern (Hooded)",
+      "range": [
+        1,
+        1
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "67b69e27b07646e2",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.9UJbMaglf35GVzaZ",
+      "drawn": false,
+      "img": "icons/containers/bags/pouch-simple-leather-tan.webp",
+      "name": "Climbing Kit",
+      "range": [
+        2,
+        2
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "705da0ea33eb4635",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.zvLyCVD8g2PdHJAc",
+      "drawn": false,
+      "img": "icons/tools/hand/lockpicks-steel-grey.webp",
+      "name": "Thieves Toolkit",
+      "range": [
+        3,
+        3
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "3bd6bb83bf0f4221",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.s1vB3HdXjMigYAnY",
+      "drawn": false,
+      "img": "icons/containers/bags/pouch-gold-green.webp",
+      "name": "Healers Toolkit",
+      "range": [
+        4,
+        4
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "b0d71c20deba470b",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.fyYnQf1NAx9fWFaS",
+      "drawn": false,
+      "img": "icons/sundries/survival/rope-wrapped-brown.webp",
+      "name": "Rope",
+      "range": [
+        5,
+        5
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "da5db3b0a9804af1",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.3lgwjrFEsQVKzhh7",
+      "drawn": false,
+      "img": "icons/containers/bags/pack-leather-white-tan.webp",
+      "name": "Backpack",
+      "range": [
+        6,
+        6
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "2153abde6dfc47d1",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.fagzYdmfYyMQ6J77",
+      "drawn": false,
+      "img": "icons/containers/ammunition/quiver-simple-brown.webp",
+      "name": "Bedroll",
+      "range": [
+        7,
+        7
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "0f24fb9f4b264380",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.L9ZV076913otGtiB",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/rations.webp",
+      "name": "Rations",
+      "range": [
+        8,
+        8
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "36faea25afb743de",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.wob6DB1FFdWs0mbp",
+      "drawn": false,
+      "img": "icons/tools/navigation/compass-worn-copper.webp",
+      "name": "Compass",
+      "range": [
+        9,
+        9
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "df721ac64d834cee",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.UtRH6jt3iNFCgLLG",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/spyglass.webp",
+      "name": "Spyglass",
+      "range": [
+        10,
+        10
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "cabb1209f18f49af",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.6DCy7tEF1cxaIJMy",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/grapling-hook.webp",
+      "name": "Grappling Hook",
+      "range": [
+        11,
+        11
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "3392e90bf2ae4c12",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Kd1WUWQnhagZGzjQ",
+      "drawn": false,
+      "img": "icons/containers/bags/pouch-simple-brown.webp",
+      "name": "Oilskin Pouch",
+      "range": [
+        12,
+        12
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "9237f11130da4359",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.7fSnvJ2xoSfa6JXD",
+      "drawn": false,
+      "img": "icons/weapons/thrown/bomb-spiked-purple.webp",
+      "name": "Caltrops",
+      "range": [
+        13,
+        13
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "2fb10a6e443c4b85",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.44F1mfJei4GY8f2X",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/crowbar.webp",
+      "name": "Crowbar",
+      "range": [
+        14,
+        14
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "b1497c9d98754760",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.JZXCTwoIWoGKjMX6",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/lock.webp",
+      "name": "Lock (Simple)",
+      "range": [
+        15,
+        15
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "acab145f89264f04",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.ckGYDocGEaelHfXF",
+      "drawn": false,
+      "img": "icons/sundries/survival/cuffs-shackles-steel.webp",
+      "name": "Manacles (Simple)",
+      "range": [
+        16,
+        16
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "8180c1b51e18463f",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.T8EopYZLT137CsdW",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/net.webp",
+      "name": "Net",
+      "range": [
+        17,
+        17
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "f84431321ea24c57",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.QJb8S927Yj81EgHH",
+      "drawn": false,
+      "img": "icons/tools/scribal/ink-quill-red.webp",
+      "name": "Writing Set",
+      "range": [
+        18,
+        18
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "555e360b08ba444e",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Du05UxCyCM0ZWH8z",
+      "drawn": false,
+      "img": "icons/consumables/potions/potion-bottle-labeled-medicine-capped-red-black.webp",
+      "name": "Oil (1 pint)",
+      "range": [
+        19,
+        19
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "7e0a3835639c4923",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.8Jdw4yAzWYylGePS",
+      "drawn": false,
+      "img": "icons/sundries/lights/torch-brown.webp",
+      "name": "Torch",
+      "range": [
+        20,
+        20
+      ],
+      "type": "document",
+      "weight": 1
+    }
+  ],
+  "folder": null,
+  "sort": 0
+}

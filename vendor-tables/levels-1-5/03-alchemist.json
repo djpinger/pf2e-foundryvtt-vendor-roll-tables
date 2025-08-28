@@ -1,0 +1,296 @@
+{
+  "_id": "k5bG37570BbflxR5",
+  "description": "A basic alchemist shop catering to beginning adventurers. Contains essential potions and alchemical items for new characters.",
+  "displayRoll": true,
+  "formula": "1d20",
+  "img": "icons/consumables/potions/potion-bottle-labeled-medicine-capped-red-black.webp",
+  "name": "Alchemist Shop (Levels 1-5)",
+  "ownership": {
+    "default": 0
+  },
+  "replacement": true,
+  "results": [
+    {
+      "_id": "6bca04a196464f0d",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.7p8W9X3vE40q96yM",
+      "drawn": false,
+      "img": "icons/consumables/potions/potion-bottle-labeled-medicine-capped-red-black.webp",
+      "name": "Healing Potion (Lesser)",
+      "range": [
+        1,
+        1
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "67b69e27b07646e5",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.8p9X0Y4vF51r07zN",
+      "drawn": false,
+      "img": "icons/consumables/potions/potion-bottle-labeled-medicine-capped-red-black.webp",
+      "name": "Healing Potion (Standard)",
+      "range": [
+        2,
+        2
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "705da0ea33eb4638",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.9p0Y1Z5vG62s18aO",
+      "drawn": false,
+      "img": "icons/consumables/potions/potion-bottle-labeled-medicine-capped-red-black.webp",
+      "name": "Healing Potion (Greater)",
+      "range": [
+        3,
+        3
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "3bd6bb83bf0f4224",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.1p1Z2A6vH73t29bP",
+      "drawn": false,
+      "img": "icons/consumables/potions/potion-bottle-labeled-medicine-capped-red-black.webp",
+      "name": "Potion of Cure Light Wounds",
+      "range": [
+        4,
+        4
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "b0d71c20deba470e",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.2p2A3B7vI84u30cQ",
+      "drawn": false,
+      "img": "icons/consumables/potions/potion-bottle-labeled-medicine-capped-red-black.webp",
+      "name": "Potion of Cure Moderate Wounds",
+      "range": [
+        5,
+        5
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "da5db3b0a9804af4",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.3p3B4C8vJ95v41dR",
+      "drawn": false,
+      "img": "icons/consumables/potions/potion-bottle-labeled-medicine-capped-red-black.webp",
+      "name": "Potion of Cure Serious Wounds",
+      "range": [
+        6,
+        6
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "2153abde6dfc47d4",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.4p4C5D9vK06w52eS",
+      "drawn": false,
+      "img": "icons/consumables/potions/potion-bottle-labeled-medicine-capped-red-black.webp",
+      "name": "Potion of Cure Critical Wounds",
+      "range": [
+        7,
+        7
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "0f24fb9f4b264383",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.5p5D6E0vL17x63fT",
+      "drawn": false,
+      "img": "icons/consumables/potions/potion-bottle-labeled-medicine-capped-red-black.webp",
+      "name": "Potion of Healing (Lesser)",
+      "range": [
+        8,
+        8
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "36faea25afb743e1",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.6p6E7F1vM28y74gU",
+      "drawn": false,
+      "img": "icons/consumables/potions/potion-bottle-labeled-medicine-capped-red-black.webp",
+      "name": "Potion of Healing (Standard)",
+      "range": [
+        9,
+        9
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "df721ac64d834cf1",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.7p7F8G2vN39z85hV",
+      "drawn": false,
+      "img": "icons/consumables/potions/potion-bottle-labeled-medicine-capped-red-black.webp",
+      "name": "Potion of Healing (Greater)",
+      "range": [
+        10,
+        10
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "cabb1209f18f49b2",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.8p8G9H3vO40a96iW",
+      "drawn": false,
+      "img": "icons/consumables/potions/potion-bottle-labeled-medicine-capped-red-black.webp",
+      "name": "Potion of Healing (Major)",
+      "range": [
+        11,
+        11
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "3392e90bf2ae4c15",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.9p9H0I4vP51b07jX",
+      "drawn": false,
+      "img": "icons/consumables/potions/potion-bottle-labeled-medicine-capped-red-black.webp",
+      "name": "Potion of Healing (Massive)",
+      "range": [
+        12,
+        12
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "9237f11130da435c",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.1p0I1J5vQ62c18kY",
+      "drawn": false,
+      "img": "icons/consumables/potions/potion-bottle-labeled-medicine-capped-red-black.webp",
+      "name": "Potion of Invisibility",
+      "range": [
+        13,
+        13
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "2fb10a6e443c4b88",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.2p1J2K6vR73d29lZ",
+      "drawn": false,
+      "img": "icons/consumables/potions/potion-bottle-labeled-medicine-capped-red-black.webp",
+      "name": "Potion of Levitation",
+      "range": [
+        14,
+        14
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "b1497c9d98754763",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.3p2K3L7vS84e30mA",
+      "drawn": false,
+      "img": "icons/consumables/potions/potion-bottle-labeled-medicine-capped-red-black.webp",
+      "name": "Potion of Magic Missile",
+      "range": [
+        15,
+        15
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "acab145f89264f07",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.4p3L4M8vT95f41nB",
+      "drawn": false,
+      "img": "icons/consumables/potions/potion-bottle-labeled-medicine-capped-red-black.webp",
+      "name": "Potion of Shield",
+      "range": [
+        16,
+        16
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "8180c1b51e184642",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.5p4M5N9vU06g52oC",
+      "drawn": false,
+      "img": "icons/consumables/potions/potion-bottle-labeled-medicine-capped-red-black.webp",
+      "name": "Potion of Haste",
+      "range": [
+        17,
+        17
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "f84431321ea24c5a",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.6p5N6O0vV17h63pD",
+      "drawn": false,
+      "img": "icons/consumables/potions/potion-bottle-labeled-medicine-capped-red-black.webp",
+      "name": "Potion of Fly",
+      "range": [
+        18,
+        18
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "555e360b08ba4451",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.7p6O7P1vW28i74qE",
+      "drawn": false,
+      "img": "icons/consumables/potions/potion-bottle-labeled-medicine-capped-red-black.webp",
+      "name": "Potion of Invisibility (Greater)",
+      "range": [
+        19,
+        19
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "7e0a3835639c4926",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.8p7P8Q2vX39j85rF",
+      "drawn": false,
+      "img": "icons/consumables/potions/potion-bottle-labeled-medicine-capped-red-black.webp",
+      "name": "Potion of Healing (Lesser)",
+      "range": [
+        20,
+        20
+      ],
+      "type": "document",
+      "weight": 1
+    }
+  ],
+  "folder": null,
+  "sort": 0
+}
