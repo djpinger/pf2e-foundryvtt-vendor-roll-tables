@@ -134,7 +134,7 @@ async function createWandScrollTable() {
         displayRoll: true
     });
     
-    // Create table entries using the correct method for Foundry VTT
+    // Create table entries using the correct embedded document type for Foundry VTT 9.x
     const tableEntries = [];
     
     for (let i = 0; i < spells.length; i++) {
@@ -152,12 +152,8 @@ async function createWandScrollTable() {
         tableEntries.push(entry);
     }
     
-    // Create the entries in the table
-    const createdEntries = [];
-    for (const entry of tableEntries) {
-        const newEntry = await table.createEmbeddedDocuments("TableEntry", [entry]);
-        createdEntries.push(newEntry[0]);
-    }
+    // Create all entries at once using the correct embedded document type
+    await table.createEmbeddedDocuments("TableResult", tableEntries);
     
     ui.notifications.info(`Created roll table "${tableName}" with ${spells.length} entries`);
     console.log(`Created roll table "${tableName}" with ${spells.length} entries`);
