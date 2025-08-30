@@ -3,7 +3,7 @@
   "description": "An alchemist's laboratory and shop stocked with potions, elixirs, mutagens, and alchemical tools perfect for mid-level adventurers seeking magical enhancements and utility items.",
   "displayRoll": true,
   "formula": "1d20",
-  "img": "icons/consumables/potions/bottle-round-corked-red.webp",
+  "img": "systems/pf2e/icons/equipment/adventuring-gear/classkit-alchemist.webp",
   "name": "Alchemist Shop (Levels 5-10)",
   "ownership": {
     "default": 0

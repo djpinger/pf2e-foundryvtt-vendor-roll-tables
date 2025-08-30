@@ -3,7 +3,7 @@
   "description": "A mystical emporium filled with scrolls, wands, staves, and enchanted items. The proprietor specializes in magical implements and consumables for experienced spellcasters and adventurers.",
   "displayRoll": true,
   "formula": "1d20",
-  "img": "icons/magic/symbols/runes-star-pentagon-blue.webp",
+  "img": "systems/pf2e/icons/equipment/adventuring-gear/classkit-wizard.webp",
   "name": "Magic Shop (Levels 5-10)",
   "ownership": {
     "default": 0

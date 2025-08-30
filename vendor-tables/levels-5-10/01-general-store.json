@@ -3,7 +3,7 @@
   "description": "A well-stocked general store catering to mid-level adventurers. Contains essential gear, tools, and supplies for characters between levels 5-10.",
   "displayRoll": true,
   "formula": "1d20",
-  "img": "icons/containers/bags/pack-leather-white-tan.webp",
+  "img": "systems/pf2e/icons/containers/bags/pack-leather-white-tan.webp",
   "name": "General Store (Levels 5-10)",
   "ownership": {
     "default": 0

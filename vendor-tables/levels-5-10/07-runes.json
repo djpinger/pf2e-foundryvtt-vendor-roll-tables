@@ -1,0 +1,168 @@
+{
+    "_id": "Runes5t10A1B2C3D",
+    "description": "<p>Table of Level 5-10 Appropriate Runes</p>",
+    "displayRoll": true,
+    "formula": "1d11",
+    "img": "systems/pf2e/icons/equipment/runes/fundamental-weapon-runes/striking.webp",
+    "name": "Runes (Levels 5-10)",
+    "ownership": {
+        "default": 0
+    },
+    "replacement": true,
+    "results": [
+        {
+            "_id": "pDN7c62acos7VhF5",
+            "description": "",
+            "documentUuid": "Compendium.pf2e.equipment-srd.Item.QNPwzwKervKpk6YO",
+            "drawn": false,
+            "img": "systems/pf2e/icons/equipment/runes/armor-property-runes/armor-property-runes.webp",
+            "name": "Ready",
+            "range": [
+                55,
+                60
+            ],
+            "type": "document",
+            "weight": 6
+        },
+        {
+            "_id": "N8O0tYmTrnQhy3Pw",
+            "description": "",
+            "documentUuid": "Compendium.pf2e.equipment-srd.Item.bJORQsO9E1JCJh6i",
+            "drawn": false,
+            "img": "systems/pf2e/icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp",
+            "name": "Extending",
+            "range": [
+                68,
+                73
+            ],
+            "type": "document",
+            "weight": 6
+        },
+        {
+            "_id": "pTcUjDwSiTZNBA7v",
+            "description": "",
+            "documentUuid": "Compendium.pf2e.equipment-srd.Item.6llILJtsTPgtYXgx",
+            "drawn": false,
+            "img": "systems/pf2e/icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp",
+            "name": "Astral",
+            "range": [
+                80,
+                85
+            ],
+            "type": "document",
+            "weight": 6
+        },
+        {
+            "_id": "QLR1mfyiW6Prk7VP",
+            "description": "",
+            "documentUuid": "Compendium.pf2e.equipment-srd.Item.roeYtwlIe65BPMJ1",
+            "drawn": false,
+            "img": "systems/pf2e/icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp",
+            "name": "Shifting",
+            "range": [
+                92,
+                97
+            ],
+            "type": "document",
+            "weight": 6
+        },
+        {
+            "_id": "PBY7PI08A2qn4e0A",
+            "description": "",
+            "documentUuid": "Compendium.pf2e.equipment-srd.Item.qUnDHEXteUQGE8yp",
+            "drawn": false,
+            "img": "systems/pf2e/icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp",
+            "name": "Grievous",
+            "range": [
+                104,
+                109
+            ],
+            "type": "document",
+            "weight": 6
+        },
+        {
+            "_id": "Us7p1HZxTxxac02S",
+            "description": "",
+            "documentUuid": "Compendium.pf2e.equipment-srd.Item.Wm0X7Pfd1bfocPSv",
+            "drawn": false,
+            "img": "systems/pf2e/icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp",
+            "name": "Corrosive",
+            "range": [
+                116,
+                121
+            ],
+            "type": "document",
+            "weight": 6
+        },
+        {
+            "_id": "1URd1EqYZ66HuHE9",
+            "description": "",
+            "documentUuid": "Compendium.pf2e.equipment-srd.Item.o65PFCSOyMje6fwi",
+            "drawn": false,
+            "img": "icons/commodities/treasure/token-runed-os-grey.webp",
+            "name": "Reinforcing Rune (Lesser)",
+            "range": [
+                170,
+                175
+            ],
+            "type": "document",
+            "weight": 6
+        },
+        {
+            "_id": "mCCqN1RuWVcuJJl0",
+            "description": "",
+            "documentUuid": "Compendium.pf2e.equipment-srd.Item.P6v2AtJw7AUwaDzf",
+            "drawn": false,
+            "img": "systems/pf2e/icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp",
+            "name": "Fearsome",
+            "range": [
+                230,
+                235
+            ],
+            "type": "document",
+            "weight": 6
+        },
+        {
+            "_id": "78DjSZEVAAHluzkV",
+            "description": "",
+            "documentUuid": "Compendium.pf2e.equipment-srd.Item.bvROhtzAez0KP7Vt",
+            "drawn": false,
+            "img": "icons/commodities/treasure/token-runed-os-grey.webp",
+            "name": "Reinforcing Rune (Moderate)",
+            "range": [
+                284,
+                289
+            ],
+            "type": "document",
+            "weight": 6
+        },
+        {
+            "_id": "Sb75nEgYTfTWteAL",
+            "description": "",
+            "documentUuid": "Compendium.pf2e.equipment-srd.Item.LwQb7ryTC8FlOXgX",
+            "drawn": false,
+            "img": "systems/pf2e/icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp",
+            "name": "Vitalizing",
+            "range": [
+                359,
+                364
+            ],
+            "type": "document",
+            "weight": 6
+        },
+        {
+            "_id": "StrikingRune1234",
+            "description": "",
+            "documentUuid": "Compendium.pf2e.equipment-srd.Item.6llILJtsTPgtYXgx",
+            "drawn": false,
+            "img": "systems/pf2e/icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp",
+            "name": "Striking",
+            "range": [
+                11,
+                11
+            ],
+            "type": "document",
+            "weight": 1
+        }
+    ]
+}

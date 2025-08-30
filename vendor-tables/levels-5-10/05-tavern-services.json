@@ -3,7 +3,7 @@
   "description": "A prosperous inn and tavern offering quality accommodations, meals, drinks, and information services for well-traveled adventurers with coin to spend.",
   "displayRoll": true,
   "formula": "1d20",
-  "img": "icons/consumables/drinks/ale-foam-wooden-mug.webp",
+  "img": "systems/pf2e/icons/equipment/adventuring-gear/cookware.webp",
   "name": "Tavern Services (Levels 5-10)",
   "ownership": {
     "default": 0
