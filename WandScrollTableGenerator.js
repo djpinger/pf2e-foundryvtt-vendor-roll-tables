@@ -134,14 +134,14 @@ async function createWandScrollTable() {
         displayRoll: true
     });
     
-    // Add entries to the table using proper format for Foundry VTT
+    // Create table entries using the correct method for Foundry VTT
     const tableEntries = [];
     
     for (let i = 0; i < spells.length; i++) {
         const spell = spells[i];
         const entryName = `${type === "scroll" ? "Scroll of " : "Wand of "}${spell.name} (Rank ${level})`;
         
-        // Create proper table entry object
+        // Create proper table entry object - use the correct structure for Foundry VTT
         const entry = {
             name: entryName,
             uuid: spell.uuid,
@@ -152,8 +152,12 @@ async function createWandScrollTable() {
         tableEntries.push(entry);
     }
     
-    // Use the proper method to create table entries
-    await table.createEmbeddedDocuments("TableEntry", tableEntries);
+    // Create the entries in the table
+    const createdEntries = [];
+    for (const entry of tableEntries) {
+        const newEntry = await table.createEmbeddedDocuments("TableEntry", [entry]);
+        createdEntries.push(newEntry[0]);
+    }
     
     ui.notifications.info(`Created roll table "${tableName}" with ${spells.length} entries`);
     console.log(`Created roll table "${tableName}" with ${spells.length} entries`);
