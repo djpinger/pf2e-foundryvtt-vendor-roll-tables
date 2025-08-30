@@ -1,4 +1,8 @@
 /*
+Original Script: https://github.com/Symon-S/FoundryVTT-Macros/blob/main/PF2e/Wand%20and%20Scroll%20Generator.js
+
+This script has been updated to also allow you to output the results to an NPC.  Great for being able to populate a vendor with a set of random wands and/or scrolls!
+
 Simple Wand/Scroll Generator
 Input Type, Rank, Tradition, Quantity, Rarity, Output Type, and Mystification.
 This will also create useable Specialty Wands for:
