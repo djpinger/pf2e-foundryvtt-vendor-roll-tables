@@ -1,8 +1,71 @@
-# Vendor Roll Tables for Pathfinder 2e (Levels 1-20)
+# Vendor Roll Tables for Pathfinder 2e
 
-This collection contains vendor roll tables designed for FoundryVTT with the Pathfinder 2e system. Tables are organized into level ranges (1-5, 6-10, 11-15, 16-20) with each range containing six different vendor types, offering level-appropriate items, services, and pricing.
+**Automated vendor table generation with proper rarity-based weighting for FoundryVTT with the Pathfinder 2e system.**
 
-## Tables Included
+This repository now includes an automated generation system that creates level-appropriate rollable tables with proper probability distributions based on item rarity. No more manual table management!
+
+## 🆕 NEW: Automated Generation System
+
+Generate custom vendor tables for any party level with proper rarity weighting:
+- **Common items** appear 4x more often (weight: 4)
+- **Uncommon items** appear 2x more often (weight: 2)
+- **Rare items** appear at base rate (weight: 1)
+
+This creates realistic vendor inventories where powerful rare items are truly rare finds!
+
+## 🚀 Quick Start
+
+For level 7 parties, pre-generated tables are ready to use:
+
+```bash
+# Option 1: Use regular version (comprehensive)
+vendor-tables/level-7/vendor-1-general-armory.json
+vendor-tables/level-7/vendor-2-arcane-alchemy.json
+
+# Option 2: Use compact version (curated, less clutter)
+vendor-tables/level-7-compact/vendor-1-general-armory.json
+vendor-tables/level-7-compact/vendor-2-arcane-alchemy.json
+```
+
+**Import into Foundry VTT:**
+1. Go to "Rollable Tables" tab
+2. Create Rollable Table → Import Data
+3. Select the JSON file
+4. Roll away!
+
+### Generate for Your Party Level
+
+```bash
+# Install dependencies (none required - uses Node.js built-ins)
+node generate-vendor-tables.js        # Full version
+node generate-vendor-tables-compact.js # Compact version
+```
+
+Edit `playerLevel` and `levelRange` in the script to customize for your party!
+
+## 📖 Documentation
+
+- **[GENERATION-SUMMARY.md](GENERATION-SUMMARY.md)** - Complete overview and version comparison
+- **[USAGE.md](USAGE.md)** - Detailed usage guide and customization options
+- **[vendor-tables/level-7/README.md](vendor-tables/level-7/README.md)** - Level 7 specific details
+
+## Vendor Types
+
+### Vendor 1: General Goods & Armory (360 items)
+- All weapon types (simple, martial, advanced)
+- All armor types and shields
+- Adventuring gear and equipment
+- **No consumables or inherently magical items**
+- Price cap: 1000 gp
+
+### Vendor 2: Arcane Emporium & Alchemy (1754 items)
+- Potions, elixirs, and alchemical items
+- Scrolls, wands, staves, and rods
+- Talismans, oils, and magical consumables
+- All grades (lesser, moderate, greater, major)
+- Price cap: 2000 gp
+
+## Legacy Tables (Manual)
 
 ### 1. General Store (`vendor-tables/levels-5-10/01-general-store.json`)
 Essential adventuring gear and tools for mid-level characters:
