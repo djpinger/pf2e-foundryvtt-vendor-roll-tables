@@ -1,0 +1,182 @@
+{
+  "_id": "mu9gomltpbn",
+  "description": "Common potions and basic alchemical items always in stock.",
+  "displayRoll": true,
+  "formula": "1d12",
+  "img": "systems/pf2e/icons/equipment/consumables/potions/minor-healing-potion.webp",
+  "name": "Arcane Emporium & Alchemy - Always Available (Level 7)",
+  "ownership": {
+    "default": 0
+  },
+  "replacement": true,
+  "results": [
+    {
+      "_id": "cr4zby1ho05",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.8Jdw4yAzWYylGePS",
+      "drawn": false,
+      "img": "icons/sundries/lights/torch-brown.webp",
+      "name": "Torch",
+      "range": [
+        1,
+        1
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "a7jigpcvtcr",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.M1k5QQc1qQLxzyCK",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-bombs/acid-flask.webp",
+      "name": "Acid Flask (Lesser)",
+      "range": [
+        2,
+        2
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "5rvfi08nwxi",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.yd3kEK21YknZLlcT",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-bombs/alchemists-fire.webp",
+      "name": "Alchemist's Fire (Lesser)",
+      "range": [
+        3,
+        3
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "ngicssh906",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.ktjFOp3U0wQD9t0Z",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-elixirs/antidote.webp",
+      "name": "Antidote (Lesser)",
+      "range": [
+        4,
+        4
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "yqmdka9nbe",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.UqinuuCWePTYGhVO",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-elixirs/antiplague.webp",
+      "name": "Antiplague (Lesser)",
+      "range": [
+        5,
+        5
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "dfho55zx3xb",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.hDLbR56Id2OtU318",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-elixirs/elixir-of-life.webp",
+      "name": "Elixir of Life (Minor)",
+      "range": [
+        6,
+        6
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "grcppoapm2u",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.z9T4c1hXwOotsMCp",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/consumables/other-consumables/holy-water.webp",
+      "name": "Holy Water",
+      "range": [
+        7,
+        7
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "faeedzhjq6f",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.SgtqZxt26BdjUmEB",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-bombs/acid-flask.webp",
+      "name": "Acid Flask (Moderate)",
+      "range": [
+        8,
+        8
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "ktjfc2tuitr",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.gWr4q4HiyGhETA8H",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-bombs/alchemists-fire.webp",
+      "name": "Alchemist's Fire (Moderate)",
+      "range": [
+        9,
+        9
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "7m90uaewpir",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.TZUskLT7yvP7N2co",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-elixirs/elixir-of-life.webp",
+      "name": "Elixir of Life (Lesser)",
+      "range": [
+        10,
+        10
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "16574xbfdrb",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.AJ1dC7EtTIfBey0M",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-elixirs/antidote.webp",
+      "name": "Antidote (Moderate)",
+      "range": [
+        11,
+        11
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "dpz2qbowuy8",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.biRbqKo2C97XLfQ0",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-elixirs/antiplague.webp",
+      "name": "Antiplague (Moderate)",
+      "range": [
+        12,
+        12
+      ],
+      "type": "document",
+      "weight": 1
+    }
+  ]
+}

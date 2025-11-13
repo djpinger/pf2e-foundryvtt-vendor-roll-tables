@@ -1,0 +1,5054 @@
+{
+  "_id": "qjzlorqqsx",
+  "description": "A well-stocked shop offering quality weapons, armor, shields, and essential adventuring gear for seasoned heroes.",
+  "displayRoll": true,
+  "formula": "1d950",
+  "img": "systems/pf2e/icons/equipment/adventuring-gear/classkit-fighter.webp",
+  "name": "General Goods & Armory (Level 7)",
+  "ownership": {
+    "default": 0
+  },
+  "replacement": true,
+  "results": [
+    {
+      "_id": "sx70ywcrdwn",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.JAOzIeqKr5hULumB",
+      "drawn": false,
+      "img": "icons/equipment/hand/gauntlet-tooled-steel.webp",
+      "name": "Alchemical Gauntlet",
+      "range": [
+        1,
+        4
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "5x1f9jcpveo",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.iSceAVMkVv1uKK7t",
+      "drawn": false,
+      "img": "icons/weapons/swords/sword-guard-gold-red.webp",
+      "name": "Aldori Dueling Sword",
+      "range": [
+        5,
+        6
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "upneep72s5a",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.HuC6uonXt6YXePjb",
+      "drawn": false,
+      "img": "icons/containers/bags/satchel-leather-embossed-tan.webp",
+      "name": "Armor Latches",
+      "range": [
+        7,
+        10
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "7m5zwu1f4ur",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.oUaeLZLK7WfolqBb",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/axe-musket.webp",
+      "name": "Axe Musket",
+      "range": [
+        11,
+        12
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "zse6p2ipyq",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.2dHdOVBySillcOGM",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/backpack-ballista.webp",
+      "name": "Backpack Ballista",
+      "range": [
+        13,
+        14
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "wf64iszd6n",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.68bqnb84kst3hFjP",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/backpack-catapult.webp",
+      "name": "Backpack Catapult",
+      "range": [
+        15,
+        16
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "mic3mvz7ot",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.mrgtvEbYTjGpOi7F",
+      "drawn": false,
+      "img": "systems/pf2e/icons/default-icons/armor.svg",
+      "name": "Bakuwa Lizardfolk Bony Plates",
+      "range": [
+        17,
+        18
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "l7m9yrybujk",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.UogGzQfXDc32E1p7",
+      "drawn": false,
+      "img": "icons/weapons/guns/gun-worn-gold.webp",
+      "name": "Barricade Buster",
+      "range": [
+        19,
+        20
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "swbe98yayo",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.jNwkyXQtJwelQWgX",
+      "drawn": false,
+      "img": "icons/containers/kitchenware/jug-terracotta-orange.webp",
+      "name": "Beekeeper's Smoker",
+      "range": [
+        21,
+        22
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "o98n8eo6o0d",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.GG7XnMngd9MnxhHb",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/specific-magic-weapons/big-boom-gun.webp",
+      "name": "Big Boom Gun",
+      "range": [
+        23,
+        24
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "u32z43s3knf",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.n5Or4nmtKPoFr6Hm",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/held-items/blade-launcher.webp",
+      "name": "Blade Launcher",
+      "range": [
+        25,
+        26
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "dfv1pdz91x",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.sF9uOLAjQiSmt9i3",
+      "drawn": false,
+      "img": "icons/weapons/polearms/spear-hooked-spike.webp",
+      "name": "Boarding Pike",
+      "range": [
+        27,
+        28
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "k94cli0woh8",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.ApMC9PSOnj7cPAGL",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/bomb-launcher.webp",
+      "name": "Bomb Launcher",
+      "range": [
+        29,
+        30
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "1105nati3zj",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.4qhnEsaypUjLm7eP",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/other/attached-items/burnished-plating.webp",
+      "name": "Burnished Plating",
+      "range": [
+        31,
+        32
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "7imahy3r4qc",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.MJ1wJbEXRw5KcvwN",
+      "drawn": false,
+      "img": "icons/commodities/tech/cog-gold.webp",
+      "name": "Clockwork Bookshelf",
+      "range": [
+        33,
+        34
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "k4l93o8lfb",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.LiK84TSQJoe1e6D7",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/held-items/clockwork-megaphone.webp",
+      "name": "Clockwork Megaphone",
+      "range": [
+        35,
+        36
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "0nfc6whzs7dh",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.3T3ayvgw9HDn05Mz",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/combat-grapnel.webp",
+      "name": "Combat Grapnel",
+      "range": [
+        37,
+        38
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "ef2ebi6db9k",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.thWEk8pHq1hqyhMn",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/communication-bangle.webp",
+      "name": "Communication Bangle",
+      "range": [
+        39,
+        40
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "dqnzo5begds",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.dUC8Fsa6FZtVikS3",
+      "drawn": false,
+      "img": "icons/weapons/bows/longbow-recurve-brown.webp",
+      "name": "Composite Longbow",
+      "range": [
+        41,
+        44
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "cifz3n7ws3v",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.e4NwsnPnpQKbDZ9F",
+      "drawn": false,
+      "img": "icons/weapons/bows/shortbow-recurve-bone.webp",
+      "name": "Composite Shortbow",
+      "range": [
+        45,
+        48
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "d8r5kdm8mdc",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.NocVi59Vtbi3kvsJ",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/held-items/deployable-cover.webp",
+      "name": "Deployable Cover",
+      "range": [
+        49,
+        50
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "hors303spn5",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.H5N2CacR3pNtanKB",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/held-items/doll.webp",
+      "name": "Doll (Surprise)",
+      "range": [
+        51,
+        54
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "o8oqjknd9v",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.rePjr9KceepKIDuB",
+      "drawn": false,
+      "img": "icons/weapons/guns/gun-double-barrel.webp",
+      "name": "Double-Barreled Musket",
+      "range": [
+        55,
+        56
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "atmvgpf16h",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.l3IOo6AiQj7pxPhB",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/shield-boss.webp",
+      "name": "Dragon's Crest",
+      "range": [
+        57,
+        58
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "nig7c3me23",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.ogv5nwwrc3sU8DnP",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/dueling-pistol.webp",
+      "name": "Dueling Pistol",
+      "range": [
+        59,
+        60
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "6u91x9qaia5",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.jcIabnkJgjwzK6Og",
+      "drawn": false,
+      "img": "icons/weapons/guns/gun-blunderbuss-bronze.webp",
+      "name": "Dwarven Scattergun",
+      "range": [
+        61,
+        62
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "1no6y2lzb97",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.cFHUt5tTA7jVPtRh",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/explosive-dogslicer.webp",
+      "name": "Explosive Dogslicer",
+      "range": [
+        63,
+        64
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "79lneaj6db8",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.tSAL09zFgPtlK4Dn",
+      "drawn": false,
+      "img": "icons/skills/targeting/target-strike-gray.webp",
+      "name": "Eyecatcher",
+      "range": [
+        65,
+        66
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "0e6o6igydhvl",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.1m0wiNht4sd05oL6",
+      "drawn": false,
+      "img": "icons/environment/settlement/tent.webp",
+      "name": "Floating Tent (Pup)",
+      "range": [
+        67,
+        70
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "sfae5zpzn3o",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.ucz1WdBA0Ma34OsS",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/flying-talon.webp",
+      "name": "Flying Talon",
+      "range": [
+        71,
+        72
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "2w5vfhwrf7h",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.tugYMolpupNz05cE",
+      "drawn": false,
+      "img": "icons/equipment/shield/wardoor-wooden-boss-brown.webp",
+      "name": "Fortress Shield",
+      "range": [
+        73,
+        76
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "9gj1a80ljf6",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.6NEOf1UznG4Po0Qi",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/held-items/games.webp",
+      "name": "Games (Loaded Dice)",
+      "range": [
+        77,
+        80
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "i1z9gmt6u8p",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.2mt15LcfMArk7JqT",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/held-items/ganjay-book.webp",
+      "name": "Ganjay Book (1 bulk book)",
+      "range": [
+        81,
+        82
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "cyb95a8lfb7",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.yvS4UatIZAGH4tng",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/held-items/ganjay-book.webp",
+      "name": "Ganjay Book (Light bulk book)",
+      "range": [
+        83,
+        84
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "l8gc2z8diz",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.wTYxAWrdsQ6SLVr9",
+      "drawn": false,
+      "img": "icons/equipment/head/mask-carved-wood-white.webp",
+      "name": "Genealogy Mask",
+      "range": [
+        85,
+        86
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "m5j6n6sshjd",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.PIR3RduvFcou4xz6",
+      "drawn": false,
+      "img": "icons/commodities/currency/coin-inset-insect-gold.webp",
+      "name": "Glittering Scarab",
+      "range": [
+        87,
+        88
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "xjcreijdo6k",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.caWhNJ2ahCzZjr55",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/gnome-amalgam-musket.webp",
+      "name": "Gnome Amalgam Musket",
+      "range": [
+        89,
+        90
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "iqdc50h2r",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.TyWs8hIOYxjcm037",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/held-items/grappling-gun.webp",
+      "name": "Grappling Gun (Clockwork)",
+      "range": [
+        91,
+        92
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "k87vfpq7l",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.WKT5mW2EccS22989",
+      "drawn": false,
+      "img": "icons/skills/movement/ball-spinning-blue.webp",
+      "name": "Guide Harness",
+      "range": [
+        93,
+        96
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "rkhvbl10s8",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.10J0WjnfgRvriLXc",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/gun-sword.webp",
+      "name": "Gun Sword",
+      "range": [
+        97,
+        98
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "erlyao2k7a",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.pRoikbRo5HFW6YUB",
+      "drawn": false,
+      "img": "icons/equipment/chest/breastplate-gorget-steel-white.webp",
+      "name": "Half Plate",
+      "range": [
+        99,
+        102
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "h2e0mwm6ghm",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.zHJEzmoybIfX1LaV",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/hammer-gun.webp",
+      "name": "Hammer Gun",
+      "range": [
+        103,
+        104
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "zgh8g75y0pj",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.iwsNMFqLdORjkotL",
+      "drawn": false,
+      "img": "icons/equipment/chest/breastplate-layered-steel-grey.webp",
+      "name": "Hardshell Surki Carapace",
+      "range": [
+        105,
+        108
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "fxpal68ypfa",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.LF7HSNnlGxLJyDZS",
+      "drawn": false,
+      "img": "icons/equipment/chest/breastplate-layered-steel.webp",
+      "name": "Hellknight Breastplate",
+      "range": [
+        109,
+        110
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "b0k7tfujyet",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.U6XqhSFUUowHnnkk",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/armor/hellknight-plate.webp",
+      "name": "Hellknight Half Plate",
+      "range": [
+        111,
+        112
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "l4wuza7anl",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.m4U2P5A1Dk1C1wr1",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/held-items/ignitor.webp",
+      "name": "Ignitor",
+      "range": [
+        113,
+        116
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "x3i5w9bk1zc",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.hD95fU3S507iTHcb",
+      "drawn": false,
+      "img": "icons/commodities/materials/liquid-droplet-blue.webp",
+      "name": "Injection Reservoir",
+      "range": [
+        117,
+        120
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "8ck6zrfg6x6",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.NEZfXSasFdLdQFBi",
+      "drawn": false,
+      "img": "icons/weapons/guns/rifle-brown.webp",
+      "name": "Jezail",
+      "range": [
+        121,
+        122
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "ew33k2gypn",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.JZXCTwoIWoGKjMX6",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/lock.webp",
+      "name": "Lock (Simple)",
+      "range": [
+        123,
+        126
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "os7eqmgiw9",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.8Rt9cf86G5Ve9Ent",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/held-items/magnetic-construction-set.webp",
+      "name": "Magnetic Construction Set",
+      "range": [
+        127,
+        130
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "t9nmrmhl2vl",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.ckGYDocGEaelHfXF",
+      "drawn": false,
+      "img": "icons/sundries/survival/cuffs-shackles-steel.webp",
+      "name": "Manacles (Simple)",
+      "range": [
+        131,
+        134
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "q7p77c2nd8k",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.8WVYOughRWLb7kGF",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/armor/mantis-shell.webp",
+      "name": "Mantis Shell",
+      "range": [
+        135,
+        136
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "cby5zbudpbk",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.8SZ9FRW4rBhjyW3j",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/worn-items/other-worn-items/mask-plague.webp",
+      "name": "Mask (Plague)",
+      "range": [
+        137,
+        138
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "ueaweymfce",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.Uz5K5773R3DB3b3o",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/contracts/hand-hewn-face.webp",
+      "name": "Mask (Rubber)",
+      "range": [
+        139,
+        142
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "fh9f53akxis",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.dj6sdn6b8Rw1Taih",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/held-items/mechanical-torch.webp",
+      "name": "Mechanical Torch",
+      "range": [
+        143,
+        146
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "d78dn8kds9",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.4CuEQqahVT8TmNld",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/bomb-launcher.webp",
+      "name": "Net Launcher",
+      "range": [
+        147,
+        147
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "i1shcwmmfv",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.EvBQcbkiYUusdFKY",
+      "drawn": false,
+      "img": "icons/weapons/bows/bow-ornamental-carved-brown.webp",
+      "name": "Phalanx Piercer",
+      "range": [
+        148,
+        151
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "gpoun3mycy",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.SBQRbWKjGNkNJeG5",
+      "drawn": false,
+      "img": "icons/equipment/finger/ring-band-skull-purple.webp",
+      "name": "Poison Ring",
+      "range": [
+        152,
+        155
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "hy79a0s2zo4",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.vRCH0cQJMllWvpfU",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/polytool.webp",
+      "name": "Polytool",
+      "range": [
+        156,
+        157
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "ni56roqvnub",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.5wanv9n8UnUQ852q",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/other/attached-items/tripod.webp",
+      "name": "Portable Weapon Mount (Monopod)",
+      "range": [
+        158,
+        159
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "36vna6x2j6r",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.6lmTRwT1dNzgWcUd",
+      "drawn": false,
+      "img": "icons/containers/chest/chest-reinforced-box-brown.webp",
+      "name": "Puzzle Box (Complex)",
+      "range": [
+        160,
+        163
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "67nzv2fvw3a",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.9wBwuCi6jo4sfaLb",
+      "drawn": false,
+      "img": "icons/containers/chest/chest-reinforced-box-brown.webp",
+      "name": "Puzzle Box (Complex) (Hollow)",
+      "range": [
+        164,
+        167
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "f4zkacvfim",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.8ncDuZSIZAHl7PW8",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/repeating-crossbow.webp",
+      "name": "Repeating Crossbow",
+      "range": [
+        168,
+        169
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "vljgi7o7nrq",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.zcrIuILnp6oh4dr9",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/repeating-hand-crossbow.webp",
+      "name": "Repeating Hand Crossbow",
+      "range": [
+        170,
+        171
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "udp4y9wxo8h",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.bP608Wb1l9ZY1zwb",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/repeating-heavy-crossbow.webp",
+      "name": "Repeating Heavy Crossbow",
+      "range": [
+        172,
+        173
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "nhv2obtn9y8",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.khU38JBZBOAxWzhY",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/replacement-filter.webp",
+      "name": "Replacement Filter (Level 1)",
+      "range": [
+        174,
+        175
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "m4bol4qnhm",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.yzc8Sll1YMWq8PpR",
+      "drawn": false,
+      "img": "icons/equipment/finger/ring-band-engraved-scrolls-bronze.webp",
+      "name": "Ring of Sigils",
+      "range": [
+        176,
+        179
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "7gccnn3rbkg",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.0KHgAaDi3tmu32Hq",
+      "drawn": false,
+      "img": "systems/pf2e/icons/default-icons/armor.svg",
+      "name": "Rite of Reinforcement Exoskeleton",
+      "range": [
+        180,
+        180
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "psd08iedt3l",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.DHKCkxAGveLE3Jnf",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/shobhad-longrifle.webp",
+      "name": "Shobhad Longrifle",
+      "range": [
+        181,
+        181
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "za3bf9dkmh",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.XLuRWK7QluA2NUNn",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/held-items/siblings-coin.webp",
+      "name": "Sibling's Coin",
+      "range": [
+        182,
+        183
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "6npzvw3musd",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.gO5dOlPBk57bg2x5",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/slide-pistol.webp",
+      "name": "Slide Pistol",
+      "range": [
+        184,
+        185
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "iii8x3fasfn",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.6AhDKX1dwRwFpQsU",
+      "drawn": false,
+      "img": "icons/equipment/chest/breastplate-layered-leather-studded-black.webp",
+      "name": "Splint Mail",
+      "range": [
+        186,
+        189
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "pqihqe9j9d",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.MMYL2rfbYNWT0Rs1",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/specific-magic-weapons/spoon-gun.webp",
+      "name": "Spoon Gun",
+      "range": [
+        190,
+        191
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "9i0mmo4wdmh",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.Hh3F4DEP6aVulwQN",
+      "drawn": false,
+      "img": "icons/tools/scribal/pen-steel-grey-brown.webp",
+      "name": "Stiletto Pen",
+      "range": [
+        192,
+        193
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "z7np6m83qvq",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.j42OKMXPsp6Mg7nY",
+      "drawn": false,
+      "img": "icons/equipment/chest/shirt-collared-yellow.webp",
+      "name": "Subtle Armor",
+      "range": [
+        194,
+        195
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "y4uzip9fpp9",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.udm5X6TXm5vdIo4h",
+      "drawn": false,
+      "img": "icons/weapons/crossbows/handcrossbow-black.webp",
+      "name": "Sukgung",
+      "range": [
+        196,
+        199
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "o5lj8ryk2c",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.yyZ3iD8IXMIrrWL1",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/switchscythe.webp",
+      "name": "Switchscythe",
+      "range": [
+        200,
+        201
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "o40w072gh",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.fPqFZ2c0MWU89nNC",
+      "drawn": false,
+      "img": "icons/tools/scribal/spectacles-glasses.webp",
+      "name": "Theater Enhancers",
+      "range": [
+        202,
+        203
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "5n0jdub1mdc",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.6mgB6Wv8X65pFMRL",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/three-peaked-tree.webp",
+      "name": "Three-peaked Tree",
+      "range": [
+        204,
+        205
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "41d1eksmu56",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.ydpA0pz0pPNqIUXU",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/other/attached-items/throwing-shield.webp",
+      "name": "Throwing Shield",
+      "range": [
+        206,
+        207
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "2f7xbkpw0zt",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.KKhw57JFYEUO4TnK",
+      "drawn": false,
+      "img": "icons/commodities/tech/cog-brass.webp",
+      "name": "Timepiece (Desktop Clock)",
+      "range": [
+        208,
+        209
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "jny3j4r4jw",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.KA0Ku5qOQfXqw3BK",
+      "drawn": false,
+      "img": "systems/pf2e/icons/default-icons/armor.svg",
+      "name": "Titan Nagaji Scales",
+      "range": [
+        210,
+        213
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "g8mh5799v5l",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.7cy9gLlKX2vNja0a",
+      "drawn": false,
+      "img": "systems/pf2e/icons/default-icons/armor.svg",
+      "name": "Tough Skin",
+      "range": [
+        214,
+        217
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "7zc9yqgukz5",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.MHJLBBESka5n3Bsg",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/worn-items/other-worn-items/coyote-cloak.webp",
+      "name": "Traveler's Cloak",
+      "range": [
+        218,
+        219
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "gah8ilpgls",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.C5vVNVAHO5Kfaveo",
+      "drawn": false,
+      "img": "systems/pf2e/icons/default-icons/equipment.svg",
+      "name": "Traveling Companion's Chair",
+      "range": [
+        220,
+        223
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "4saz57z866a",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.VKHKaCMRF30GWvZ0",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/spiked-chain.webp",
+      "name": "Twining Chains",
+      "range": [
+        224,
+        225
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "2q3d8kqmos2",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.STF54Mk8rE7uSMbv",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/waffle-iron.webp",
+      "name": "Waffle Iron (Imprint)",
+      "range": [
+        226,
+        229
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "phjeaniiwbe",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.i2JwyZJpVZhlOObL",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/waterproof-journal.webp",
+      "name": "Waterproof Journal",
+      "range": [
+        230,
+        231
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "pmorbxlh399",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.4mW1K9vZ0VIIEazS",
+      "drawn": false,
+      "img": "icons/containers/bags/case-leather-tan.webp",
+      "name": "Weapon Harness",
+      "range": [
+        232,
+        233
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "q6ao4jkjr3f",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.touk9g0Lc2REwowo",
+      "drawn": false,
+      "img": "icons/commodities/tech/pipe-tin.webp",
+      "name": "Weapon Siphon",
+      "range": [
+        234,
+        237
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "l6yoystpdr",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.gdaLHiWRhB1l2Xr3",
+      "drawn": false,
+      "img": "icons/skills/ranged/cannon-barrel-firing-yellow.webp",
+      "name": "Alchemist's Flamethrower",
+      "range": [
+        238,
+        238
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "fglwglxkql",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.oGVtymwknrJS8gWW",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/armor/bastion-plate.webp",
+      "name": "Bastion Plate",
+      "range": [
+        239,
+        242
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "5ci8d51plil",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.85lwgBrZh0cB3PX4",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/worn-items/other-worn-items/day-goggles.webp",
+      "name": "Day Goggles",
+      "range": [
+        243,
+        244
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "iiyzos4bwem",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.ozOVlLALtDChFJwc",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/held-items/deployable-cover.webp",
+      "name": "Deployable Cover (Ballistic Cover)",
+      "range": [
+        245,
+        246
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "iqu9nqydp6f",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.T99WI1hocCXE7RI0",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/held-items/doll.webp",
+      "name": "Doll (Exquisite surprise)",
+      "range": [
+        247,
+        250
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "0p9e4jj8zenl",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.ocqIWF5PeU9BxNlM",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/worn-items/other-worn-items/experimental-clothing.webp",
+      "name": "Experimental Clothing",
+      "range": [
+        251,
+        252
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "43wqix62m89",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.XQBkuELucpI0c7XW",
+      "drawn": false,
+      "img": "icons/environment/settlement/tent.webp",
+      "name": "Floating Tent (Four-Person)",
+      "range": [
+        253,
+        256
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "zepknndpwbq",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.FSDEuHDr1I4JVIJg",
+      "drawn": false,
+      "img": "icons/equipment/chest/breastplate-layered-gilded-black.webp",
+      "name": "Fortress Plate",
+      "range": [
+        257,
+        260
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "ibs4p71bvx",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.Gq1cZWSKOtJhKd2p",
+      "drawn": false,
+      "img": "icons/equipment/chest/breastplate-layered-steel-green.webp",
+      "name": "Full Plate",
+      "range": [
+        261,
+        264
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "4t9gqgfpret",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.e6lhw1SPdq3koAqG",
+      "drawn": false,
+      "img": "icons/weapons/daggers/dagger-blue.webp",
+      "name": "Gelid Shard",
+      "range": [
+        265,
+        265
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "a53x9s9gxtp",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.M6b20zZTGNWrx5oM",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/armor/hellknight-plate.webp",
+      "name": "Gray Maiden Plate",
+      "range": [
+        266,
+        269
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "9len4kemdau",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.zSILrZ6pYWbWUm2D",
+      "drawn": false,
+      "img": "icons/containers/bags/satchel-leather-white-tan.webp",
+      "name": "Gunner's Saddle",
+      "range": [
+        270,
+        271
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "1f1n7wu38by",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.lCgXeV52eYYl5cUX",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/armor/hellknight-plate.webp",
+      "name": "Hellknight Plate",
+      "range": [
+        272,
+        273
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "z9igmh2xwi",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.OdBdmv0Y1P7wQWTo",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/held-items/holy-steam-ball.webp",
+      "name": "Holy Steam Ball",
+      "range": [
+        274,
+        275
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "bni1iuawjdo",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.AXewacUHP6rs980k",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/shields/specific-shields/wovenwood-shield.webp",
+      "name": "Mycoweave Shield (Lesser)",
+      "range": [
+        276,
+        277
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "m00w5zafa0g",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.U2liOd8kJasy0Ghd",
+      "drawn": false,
+      "img": "icons/equipment/chest/breastplate-gorget-steel.webp",
+      "name": "O-Yoroi",
+      "range": [
+        278,
+        281
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "x3ezygip3sq",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.e011UgQLOJtdUqoW",
+      "drawn": false,
+      "img": "icons/commodities/tech/crank.webp",
+      "name": "Paper Shredder",
+      "range": [
+        282,
+        283
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "wsd53h5x5xb",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.hHOi8jV85CN8WRJT",
+      "drawn": false,
+      "img": "icons/equipment/chest/breastplate-layered-leather-brown-silver.webp",
+      "name": "Parade Armor",
+      "range": [
+        284,
+        285
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "g3ui2fg7wjk",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.ZZnh7BkwApPyNyqc",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/periscope.webp",
+      "name": "Periscope",
+      "range": [
+        286,
+        289
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "744sbufrgbg",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.ONwLm7P7ICUtVN9V",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/held-items/pocket-watch.webp",
+      "name": "Pocket Watch",
+      "range": [
+        290,
+        291
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "806sqxurb4g",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.fOfNBgb6xbu8eA4e",
+      "drawn": false,
+      "img": "icons/magic/nature/stealth-hide-beast-eyes-green.webp",
+      "name": "Portable Animal Blind",
+      "range": [
+        292,
+        295
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "1gj3zhqe5jnj",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.5TX0wX3VtMqriZSu",
+      "drawn": false,
+      "img": "icons/equipment/chest/coat-collared-red-gold.webp",
+      "name": "Quick-Change Outfit",
+      "range": [
+        296,
+        299
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "qylxvlk38me",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.MEJfmtMXXnIV4Lzx",
+      "drawn": false,
+      "img": "icons/commodities/metal/fragments-sword-steel.webp",
+      "name": "Splinter of Finality",
+      "range": [
+        300,
+        300
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "lfskse1not",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.n8nmqJdfHrDfuG1J",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/astrolabe.webp",
+      "name": "Standard Astrolabe",
+      "range": [
+        301,
+        302
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "c1tf7ne7175",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.c3dFpmXsIxH2i8ug",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/advanced-book-of-translation.webp",
+      "name": "Standard Book of Translation (Tien)",
+      "range": [
+        303,
+        304
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "s3f184hw5b",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.iX25AmfeRbV3M1EF",
+      "drawn": false,
+      "img": "icons/equipment/neck/collar-carved-bone-ring.webp",
+      "name": "Steadyfoot Tassel",
+      "range": [
+        305,
+        306
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "k9bk9rpmzl8",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.xyzmQa3nhU8HxfUL",
+      "drawn": false,
+      "img": "icons/environment/settlement/tent.webp",
+      "name": "Tent (Pavilion)",
+      "range": [
+        307,
+        310
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "iu0wni67swq",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.SHhSOqzt89GRk9kL",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/held-items/toy-carriage.webp",
+      "name": "Toy Carriage (Windup)",
+      "range": [
+        311,
+        314
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "aunbafybxb",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.fEc4v3EiddH2v0kd",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/held-items/wrist-grappler.webp",
+      "name": "Wrist Grappler",
+      "range": [
+        315,
+        316
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "lgsegxk923g",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.YZxq8rGPiLPIKWIQ",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/writ-of-authenticity.webp",
+      "name": "Writ of Authenticity",
+      "range": [
+        317,
+        318
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "jf37cpf0hfd",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.uhka9LHEP3wDKytG",
+      "drawn": false,
+      "img": "icons/containers/chest/chest-simple-box-steel-brown.webp",
+      "name": "Alchemist's Lab (Expanded)",
+      "range": [
+        319,
+        322
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "p4iwhtlrrp",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.0QgniSjpzksm5riV",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/artisan-tools.webp",
+      "name": "Artisan's Toolkit (Sterling)",
+      "range": [
+        323,
+        326
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "iexmdhvnqs",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.kyTJrlBDdil7mA5d",
+      "drawn": false,
+      "img": "icons/magic/air/air-pressure-shield-blue.webp",
+      "name": "Atmospheric Breathing Suit",
+      "range": [
+        327,
+        330
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "lo6uyjs6rxl",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.7irlzyZA50KqTwce",
+      "drawn": false,
+      "img": "icons/weapons/guns/rifle-brown.webp",
+      "name": "Boastful Hunter",
+      "range": [
+        331,
+        331
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "c56pwqw67a6",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.c9GaJKCxxqXKZokZ",
+      "drawn": false,
+      "img": "icons/equipment/neck/necklace-simple-teeth.webp",
+      "name": "Broken Tusk Pendant",
+      "range": [
+        332,
+        332
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "remazbrja4r",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.UXsHBUyx4b0dIPDf",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/worn-items/other-worn-items/camouflage-suit.webp",
+      "name": "Camouflage Suit",
+      "range": [
+        333,
+        334
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "ht4z5i44zhr",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.TWv2EeDJaCjtmGUN",
+      "drawn": false,
+      "img": "icons/containers/bags/pouch-simple-leather-tan.webp",
+      "name": "Climbing Kit (Extreme)",
+      "range": [
+        335,
+        338
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "oaohk2wnfmq",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.RxBVbQEd4DArkpKl",
+      "drawn": false,
+      "img": "icons/equipment/back/cloak-collared-feathers-green.webp",
+      "name": "Cloak of Gnawing Leaves",
+      "range": [
+        339,
+        339
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "26h1vm16xsq",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.15nkBxrvIrbGQCdS",
+      "drawn": false,
+      "img": "icons/commodities/tech/cog-steel.webp",
+      "name": "Clockwork Box Packer",
+      "range": [
+        340,
+        341
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "jk4j7fidpe",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.rXZxM7SbqEnvXyal",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/clothes-high-fashion.webp",
+      "name": "Clothing (High-Fashion Fine)",
+      "range": [
+        342,
+        345
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "my1eh4f1rw",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.xVhd8NF9KQ6VWfMu",
+      "drawn": false,
+      "img": "icons/tools/navigation/compass-brass-blue-red.webp",
+      "name": "Compass (Lensatic)",
+      "range": [
+        346,
+        349
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "c619dxv03bq",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.3fHdvyWq5A9jvT9W",
+      "drawn": false,
+      "img": "icons/equipment/waist/belt-coiled-leather-steel.webp",
+      "name": "Concealed Holster",
+      "range": [
+        350,
+        351
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "9i9bmr3dtx6",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.laU7xnX42wXch2Dv",
+      "drawn": false,
+      "img": "icons/weapons/swords/shortsword-sheathed-brown.webp",
+      "name": "Concealed Sheath",
+      "range": [
+        352,
+        355
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "h0sd0hvupla",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.4kz3vhkKPUuXBpxk",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/crowbar-levered.webp",
+      "name": "Crowbar (Levered)",
+      "range": [
+        356,
+        359
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "4r1t1t6e4jj",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.1tqyghMGI6PEYFGK",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/held-items/dawnlight.webp",
+      "name": "Dawnlight",
+      "range": [
+        360,
+        361
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "1iga23p2vbo",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.ItLZL9Bd6xwgfeB8",
+      "drawn": false,
+      "img": "icons/containers/bags/pack-leather-embossed-brown.webp",
+      "name": "Detective's Kit",
+      "range": [
+        362,
+        365
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "tslsnhat3og",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.IRqbsE8MgGLTfHLz",
+      "drawn": false,
+      "img": "icons/commodities/materials/bowl-powder-blue.webp",
+      "name": "Disguise Kit (Elite Cosmetics)",
+      "range": [
+        366,
+        369
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "y0adepix2kr",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.YhkomhtKBK3i9C7Q",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/disguisekit-elite.webp",
+      "name": "Disguise Kit (Elite)",
+      "range": [
+        370,
+        373
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "0ddrsc71wx1v",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.Ln0gcJPFHU9sQ7Jd",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/worn-items/other-worn-items/diving-suit.webp",
+      "name": "Diving Suit",
+      "range": [
+        374,
+        377
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "5yd8im0j7yo",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.njHnUB4bwW26slzD",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/held-items/electrocable.webp",
+      "name": "Electrocable",
+      "range": [
+        378,
+        378
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "jbawo4uaf1",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.QuPnoGmlgYVNXeTz",
+      "drawn": false,
+      "img": "icons/commodities/tech/pipe-copper-loop-gold.webp",
+      "name": "Extendable Tail",
+      "range": [
+        379,
+        382
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "8k8up2xm06j",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.QlFJyxBTYFSN2EA7",
+      "drawn": false,
+      "img": "icons/containers/bags/pouch-leather-silver-grey.webp",
+      "name": "Fingerprint Kit",
+      "range": [
+        383,
+        384
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "w0tbd9sb58p",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.ksorBjuXO0Bvdmhl",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/fishing-tackle-professional.webp",
+      "name": "Fishing Tackle (Professional)",
+      "range": [
+        385,
+        388
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "moaypprfbtp",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.VSxLv1JRSo10waL0",
+      "drawn": false,
+      "img": "icons/weapons/daggers/dagger-straight-thin-black.webp",
+      "name": "Ghast Stiletto",
+      "range": [
+        389,
+        392
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "rlrkir91c5c",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.VOmOhm3Rc3VUkIu0",
+      "drawn": false,
+      "img": "icons/weapons/daggers/dagger-straight-thin-black.webp",
+      "name": "Ghoul Stiletto",
+      "range": [
+        393,
+        396
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "vxxpsso1eic",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.qrOs3jNXJol6tWS4",
+      "drawn": false,
+      "img": "icons/weapons/staves/staff-simple-brown.webp",
+      "name": "Giant Catch Pole",
+      "range": [
+        397,
+        398
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "hev1rwkjb67",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.ACa9QlFqdmW4s2Th",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/worn-items/other-worn-items/hag-eye.webp",
+      "name": "Hag Eye",
+      "range": [
+        399,
+        399
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "7ish5pf35zm",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.wBeljBAAFsvgkRMy",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/handcuffs.webp",
+      "name": "Handcuffs (Average)",
+      "range": [
+        400,
+        401
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "lni2dz4i5sb",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.SGkOHFyBbzWdBk8D",
+      "drawn": false,
+      "img": "icons/containers/bags/pouch-gold-green.webp",
+      "name": "Healer's Toolkit (Expanded)",
+      "range": [
+        402,
+        405
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "9ovncj5lxl5",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.5KHp3903LnOcHp8k",
+      "drawn": false,
+      "img": "icons/containers/chest/chest-simple-box-red.webp",
+      "name": "Hoax-Hunter's Kit",
+      "range": [
+        406,
+        407
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "1gfglt6id68",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.ZIt62AQb997FatRw",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/dueling-cape.webp",
+      "name": "Knight's Tabard",
+      "range": [
+        408,
+        409
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "nt9sha16sse",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.KeespXczBEt1ci26",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/treasure/art-objects/greater-art-object/gold-chalice-with-black-pearls.webp",
+      "name": "Lady's Chalice",
+      "range": [
+        410,
+        411
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "7wy219c48q2",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.RgVOC3rpptrwENbu",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/dagger.webp",
+      "name": "Little Love",
+      "range": [
+        412,
+        412
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "b29vqs3pz7",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.q2TYVAMaK6UfenbV",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/lock.webp",
+      "name": "Lock (Average)",
+      "range": [
+        413,
+        416
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "0hqlmd1es9z5",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.SswqJqeAWGtX3tTF",
+      "drawn": false,
+      "img": "icons/equipment/head/hat-belted-simple-grey.webp",
+      "name": "Mage's Hat",
+      "range": [
+        417,
+        420
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "iq1gtjrjxz",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.5GbC7RTgyAeaOcAI",
+      "drawn": false,
+      "img": "icons/tools/scribal/magnifying-glass.webp",
+      "name": "Magnifying Glass",
+      "range": [
+        421,
+        424
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "80c57wlaz1l",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.lWeADBqMFwFlVIuV",
+      "drawn": false,
+      "img": "icons/sundries/survival/cuffs-shackles-steel.webp",
+      "name": "Manacles (Average)",
+      "range": [
+        425,
+        428
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "ob1khm7xo8r",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.O1W40RBvlZW069Mw",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/astrolabe.webp",
+      "name": "Mariner's Astrolabe",
+      "range": [
+        429,
+        430
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "0qynxc8qna2",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.3ld14dsn2RLu9owg",
+      "drawn": false,
+      "img": "icons/tools/instruments/lute-gold-brown.webp",
+      "name": "Musical Instrument (Virtuoso handheld)",
+      "range": [
+        431,
+        434
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "q5mdeocqe0c",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.yw1kPxsdCoDUzOaE",
+      "drawn": false,
+      "img": "icons/tools/instruments/drum-brown-red.webp",
+      "name": "Musical Instrument (Virtuoso heavy)",
+      "range": [
+        435,
+        438
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "pb7fjqlaqz",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.gDfBzU6umebo5RXP",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/palm-crossbow.webp",
+      "name": "Palm Crossbow",
+      "range": [
+        439,
+        439
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "ggyqnifv59v",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.bbSc1VU1LiQqReKd",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/pathfinder-chronicle.webp",
+      "name": "Pathfinder Chronicle",
+      "range": [
+        440,
+        441
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "rp3ehe0yo9",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.zPhqmCvWyHO8i9ws",
+      "drawn": false,
+      "img": "icons/commodities/biological/eye-purple.webp",
+      "name": "Pendant of the Occult",
+      "range": [
+        442,
+        445
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "42i8ad0tjge",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.lu42Up1309MqFya4",
+      "drawn": false,
+      "img": "systems/pf2e/icons/unarmed-attacks/tongue.webp",
+      "name": "Pickled Demon Tongue",
+      "range": [
+        446,
+        447
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "7af7korviv4",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.rtfpj9WJHMnMtfuG",
+      "drawn": false,
+      "img": "systems/pf2e/icons/unarmed-attacks/tusk.webp",
+      "name": "Polished Demon Horn",
+      "range": [
+        448,
+        449
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "eqehrdv0ddi",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.PO0n5F4j8Pa0LB0Q",
+      "drawn": false,
+      "img": "icons/commodities/stone/masonry-block-cube-white.webp",
+      "name": "Portable Altar",
+      "range": [
+        450,
+        451
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "99lv2bdgzu",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.Vr2h3E86Vaf5DJpZ",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/held-items/portable-ram.webp",
+      "name": "Portable Ram",
+      "range": [
+        452,
+        455
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "w8934ssfkkd",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.naxISKMwhLQ5F9yS",
+      "drawn": false,
+      "img": "icons/containers/chest/chest-reinforced-box-brown.webp",
+      "name": "Puzzle Box (Challenging)",
+      "range": [
+        456,
+        459
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "qkobf2iy2r",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.1uwONfUHwHjRJp6o",
+      "drawn": false,
+      "img": "icons/containers/chest/chest-reinforced-box-brown.webp",
+      "name": "Puzzle Box (Challenging) (Hollow)",
+      "range": [
+        460,
+        463
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "hs2k1h5slpi",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.VLtEtfIggBKXuy7S",
+      "drawn": false,
+      "img": "icons/containers/bags/satchel-leather-gold-brown.webp",
+      "name": "Rappelling Kit",
+      "range": [
+        464,
+        467
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "kx2q255lr5d",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.maHPPEwKK2NxbMoV",
+      "drawn": false,
+      "img": "icons/equipment/wrist/bracer-banded-leather.webp",
+      "name": "Raven Band",
+      "range": [
+        468,
+        469
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "13p5ewpn9x3r",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.aDsdYMPpVc8hOnM5",
+      "drawn": false,
+      "img": "icons/tools/smithing/anvil.webp",
+      "name": "Repair Toolkit (Superb)",
+      "range": [
+        470,
+        473
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "12d8ed4qwahk",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.6eOp2hxFeQNr3KQA",
+      "drawn": false,
+      "img": "icons/skills/movement/arrow-upward-yellow.webp",
+      "name": "Sambuca",
+      "range": [
+        474,
+        474
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "dxi4c7olv2",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.hywANJCzT7hMgWna",
+      "drawn": false,
+      "img": "icons/sundries/books/book-open-turquoise.webp",
+      "name": "Scholarly Journal",
+      "range": [
+        475,
+        476
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "i0rdout7psb",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.5rkGXSbaqBbY4MiR",
+      "drawn": false,
+      "img": "icons/sundries/books/book-tooled-silver-blue.webp",
+      "name": "Scholarly Journal Compendium",
+      "range": [
+        477,
+        478
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "pb3kuck9309",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.vGQ7jbZvYpsEO28r",
+      "drawn": false,
+      "img": "icons/sundries/scrolls/scroll-bound-sealed-blue.webp",
+      "name": "Scroll Belt",
+      "range": [
+        479,
+        480
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "41tqztyeoe2",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.YVtXlsEWb3NIkDyy",
+      "drawn": false,
+      "img": "icons/commodities/treasure/brooch-jewel-gold-blue.webp",
+      "name": "Shining Symbol",
+      "range": [
+        481,
+        484
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "8ed5ai8rg3",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.GGsECHQJ3RrnWXhV",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/materials/orichalcum-chunk.webp",
+      "name": "Sisterstone Chunk",
+      "range": [
+        485,
+        485
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "swx7q9one4",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.nI4JorlalCpzsJ07",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/materials/orichalcum-ingot.webp",
+      "name": "Sisterstone Ingot",
+      "range": [
+        486,
+        486
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "bny0ko3hszg",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.sgH9U2fKqWCedKNO",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/worn-items/other-worn-items/skinsaw-mask.webp",
+      "name": "Skinsaw Mask",
+      "range": [
+        487,
+        488
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "iukliaek0y",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.XndR8hsJyCsVfZOi",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/worn-items/other-worn-items/alchemist-goggles.webp",
+      "name": "Smoked Goggles",
+      "range": [
+        489,
+        492
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "yndvkda9w6q",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.2KnSYPFGKz4MDeiW",
+      "drawn": false,
+      "img": "icons/commodities/tech/fuse-copper.webp",
+      "name": "Splatrope Extruder",
+      "range": [
+        493,
+        496
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "c5dfjtbxjz",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.kK0ClM2NkZYKVs2Z",
+      "drawn": false,
+      "img": "icons/equipment/head/goggles-leather-tan.webp",
+      "name": "Sun Goggles",
+      "range": [
+        497,
+        500
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "87yaq17vgkh",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.UhcRWtnjU2WLSClx",
+      "drawn": false,
+      "img": "icons/tools/navigation/map-chart-tan.webp",
+      "name": "Survey Map",
+      "range": [
+        501,
+        502
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "s5y5ugwmv2",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.1M4SSDuTv2SwBltC",
+      "drawn": false,
+      "img": "icons/tools/navigation/map-chart-tan.webp",
+      "name": "Survey Map (Atlas)",
+      "range": [
+        503,
+        504
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "i0gjk6y28t",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.BznmPaRjI4Orb0IH",
+      "drawn": false,
+      "img": "icons/tools/hand/lockpicks-steel-grey.webp",
+      "name": "Thieves' Toolkit (Infiltrator Picks)",
+      "range": [
+        505,
+        508
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "xnx2853tin",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.6nrCxNQFycUVFOV2",
+      "drawn": false,
+      "img": "icons/tools/hand/lockpicks-steel-grey.webp",
+      "name": "Thieves' Toolkit (Infiltrator)",
+      "range": [
+        509,
+        512
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "fgyaiis7fjb",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.xaWuuQoBJiMLzggR",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/held-items/thurible-of-revelation.webp",
+      "name": "Thurible of Revelation (Lesser)",
+      "range": [
+        513,
+        516
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "agxychy8s7j",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.zVXDnx8i0KLf6fkF",
+      "drawn": false,
+      "img": "icons/commodities/tech/cog-brass.webp",
+      "name": "Timepiece (Grand Clock)",
+      "range": [
+        517,
+        518
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "wrgv0st9uzc",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.PCQtpTKiGfSSRwNV",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/alchemical-items/alchemical-tools/vestige-lenses.webp",
+      "name": "Vestige Lenses",
+      "range": [
+        519,
+        519
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "o7xty7zs6id",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.sjGt3r0pgI1zwc9t",
+      "drawn": false,
+      "img": "icons/commodities/biological/shell-conch-gray.webp",
+      "name": "Vocal Shells",
+      "range": [
+        520,
+        520
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "8dikmtfmler",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.vDQSR3fgfYqLp0aB",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/other/attached-items/wind-up-wings.webp",
+      "name": "Wind-up Wings (Flutterback)",
+      "range": [
+        521,
+        521
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "7d26yw8czjo",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.mcKF8McrMlp01wUP",
+      "drawn": false,
+      "img": "icons/commodities/tech/crank.webp",
+      "name": "Wrenchgear",
+      "range": [
+        522,
+        523
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "lwdrl996ud",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.kRBYoE6j2QUXQJGS",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/held-items/wrist-grappler.webp",
+      "name": "Wrist Grappler (Clockwork)",
+      "range": [
+        524,
+        525
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "jrab4v4d0ad",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.gvtFrrvCSdsCOlOj",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/other/attached-items/air-cartridge-firing-system.webp",
+      "name": "Air Cartridge Firing System",
+      "range": [
+        526,
+        527
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "y06feafy0bp",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.cKYWot4ifTOa6ans",
+      "drawn": false,
+      "img": "icons/sundries/documents/blueprint-recipe-alchemical.webp",
+      "name": "Alchemical Chart (Lesser)",
+      "range": [
+        528,
+        531
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "estl990bpx",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.y8nPmHXIdt4KhMQU",
+      "drawn": false,
+      "img": "icons/tools/instruments/megaphone.webp",
+      "name": "Bagpipes of Turmoil",
+      "range": [
+        532,
+        535
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "7y84wrcwgtd",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.qEPyzpoZOygWRn09",
+      "drawn": false,
+      "img": "icons/weapons/wands/wand-gem-violet.webp",
+      "name": "Cyrusian Wand (1st-Rank Spell)",
+      "range": [
+        536,
+        536
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "9yyniv5h4b6",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.LSbv4rdvKfm4bPrR",
+      "drawn": false,
+      "img": "icons/equipment/head/helm-barbute-brass-steel.webp",
+      "name": "Dread Helm",
+      "range": [
+        537,
+        540
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "6j7jh3in73t",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.dsxATkJ2RwvYF3vm",
+      "drawn": false,
+      "img": "icons/tools/instruments/drum-brown-red.webp",
+      "name": "Drums of War",
+      "range": [
+        541,
+        544
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "rm401zxwyb8",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.Jpgl3HlEd8u20fUY",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/held-items/entertainers-lute.webp",
+      "name": "Entertainer's Lute",
+      "range": [
+        545,
+        548
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "huqptwny744",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.RN6rEc8eSkruNLPW",
+      "drawn": false,
+      "img": "icons/weapons/staves/staff-ornate-hook.webp",
+      "name": "Exquisite Sword Cane",
+      "range": [
+        549,
+        552
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "kq4ngyb5y2",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.rT93xVoebhCm9uVA",
+      "drawn": false,
+      "img": "icons/magic/symbols/star-inverted-yellow.webp",
+      "name": "Faith Tattoo",
+      "range": [
+        553,
+        556
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "yudq6o7vors",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.PttRbxopuD0EpDTI",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/worn-items/other-worn-items/hag-eye.webp",
+      "name": "Frightful Hag Eye",
+      "range": [
+        557,
+        557
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "wtam8r9c0c",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.t9NlJdAdTKWZUoYz",
+      "drawn": false,
+      "img": "icons/equipment/chest/robe-layered-teal.webp",
+      "name": "Hidden Pocket Outfit",
+      "range": [
+        558,
+        559
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "ggghwaniyyb",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.P8mILknZPnolGHQq",
+      "drawn": false,
+      "img": "icons/equipment/head/goggles-leather-grey.webp",
+      "name": "High-contrast Goggles",
+      "range": [
+        560,
+        561
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "h0jecdxfina",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.oIMtXP8y7oxvrBVP",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/worn-items/companion-items/hosteling-statuette.webp",
+      "name": "Hosteling Statuette",
+      "range": [
+        562,
+        563
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "vv2mhuxzu8f",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.8qR43lT8rpmlkoKs",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/worn-items/other-worn-items/hag-eye.webp",
+      "name": "Oracular Hag Eye",
+      "range": [
+        564,
+        564
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "dazlpej5k0r",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.nNinADW4vVC0roP2",
+      "drawn": false,
+      "img": "icons/equipment/leg/pants-brown-orange-leather-pants.webp",
+      "name": "Pickpocket's Tailoring",
+      "range": [
+        565,
+        566
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "6oozjluhpbt",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.TTvfgU2G5n3tpTby",
+      "drawn": false,
+      "img": "icons/tools/instruments/flute-simple-wood.webp",
+      "name": "Pipes of Compulsion",
+      "range": [
+        567,
+        568
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "27ls9d1kqij",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.eLsmwHVW5qiwcd7c",
+      "drawn": false,
+      "img": "icons/tools/instruments/pipe-flute-brown.webp",
+      "name": "Seer's Flute",
+      "range": [
+        569,
+        570
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "dnz96vjc9ek",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.rV7MTDCseZmEZKDw",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/spyglass.webp",
+      "name": "Spyglass (Fine)",
+      "range": [
+        571,
+        574
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "f8pqoac5ogl",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.752IrectHHkJwxd0",
+      "drawn": false,
+      "img": "icons/weapons/staves/staff-simple-brown.webp",
+      "name": "Superior Catch Pole",
+      "range": [
+        575,
+        578
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "jrhy4a953j",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.BHjJpNILf85M2LJE",
+      "drawn": false,
+      "img": "icons/commodities/treasure/brooch-eye-silver-teal.webp",
+      "name": "Symbol of Conflict",
+      "range": [
+        579,
+        580
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "nbckr67tdtq",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.TxMFNfkoccirCitP",
+      "drawn": false,
+      "img": "icons/tools/hand/lockpicks-steel-grey.webp",
+      "name": "Thieves' Tools (Concealable Picks)",
+      "range": [
+        581,
+        582
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "jl4x1m2szm",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.Ejmv9IHGp9Ad9dgu",
+      "drawn": false,
+      "img": "icons/tools/hand/lockpicks-steel-grey.webp",
+      "name": "Thieves' Tools (Concealable)",
+      "range": [
+        583,
+        584
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "0l8g9tlqxqzp",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.PkSxW5gxIU5P83ia",
+      "drawn": false,
+      "img": "icons/magic/nature/tree-spirit-blue.webp",
+      "name": "Three-Pillared Yang Na",
+      "range": [
+        585,
+        585
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "r9lxph4ue6i",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.teMhnTeAyWnvbo2C",
+      "drawn": false,
+      "img": "icons/commodities/tech/cog-copper.webp",
+      "name": "Tremorsensors",
+      "range": [
+        586,
+        587
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "4opz7c00frk",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.kILYXCczAc6ZfArJ",
+      "drawn": false,
+      "img": "icons/tools/instruments/lute-gold-brown.webp",
+      "name": "Trickster's Mandolin",
+      "range": [
+        588,
+        591
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "4o5rr7lxkbe",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.uOaFBqnCYWCgyCl6",
+      "drawn": false,
+      "img": "icons/magic/nature/leaf-glow-green.webp",
+      "name": "Wildwood Ink",
+      "range": [
+        592,
+        595
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "mpu5s71u3fa",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.gjjF0sQMpXf3CrTF",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/advanced-book-of-translation.webp",
+      "name": "Advanced Book of Translation (Tien)",
+      "range": [
+        596,
+        597
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "uqrhuwkqtho",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.FSIDKg5gYiXlr39j",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/lance.webp",
+      "name": "Alicorn Lance",
+      "range": [
+        598,
+        599
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "a2nzytxs0zv",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.amJW9azNUSJLmWGP",
+      "drawn": false,
+      "img": "icons/equipment/feet/boots-collared-green.webp",
+      "name": "Arboreal Boots",
+      "range": [
+        600,
+        603
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "91oamd1bfjf",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.B4wxZ7mvBDJPWPvZ",
+      "drawn": false,
+      "img": "icons/commodities/treasure/glass-crystal-green.webp",
+      "name": "Bomb Coagulant Alembic",
+      "range": [
+        604,
+        607
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "wk5ryeh2fw",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.iS7hAQMAaThHYE8g",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/worn-items/other-worn-items/borts-blessing.webp",
+      "name": "Bort's Blessing",
+      "range": [
+        608,
+        608
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "sed3i5koj6",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.73lxT8RrbKtoHvty",
+      "drawn": false,
+      "img": "icons/equipment/waist/belt-thick-ring-leather-tan.webp",
+      "name": "Chaos Collar",
+      "range": [
+        609,
+        612
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "o68kyfp0zls",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.QiYXHgbAv29OuaWS",
+      "drawn": false,
+      "img": "icons/equipment/waist/belt-buckle-round-steel-purple.webp",
+      "name": "Collar of the Shifting Spider",
+      "range": [
+        613,
+        616
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "rizrou3u31p",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.T4gTHDKJ0HI10p3y",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/runes/weapon-property-runes/weapon-property-runes.webp",
+      "name": "Cunning",
+      "range": [
+        617,
+        618
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "3307rbi9t1u",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.6rWcLbV82KYwaHo1",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/specific-magic-weapons/dog-bone-knife.webp",
+      "name": "Dog-Bone Knife",
+      "range": [
+        619,
+        620
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "0adgbuqp9xxf",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.ClfUJ4AtaxglVGvs",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/worn-items/other-worn-items/fleshgem-combat.webp",
+      "name": "Fleshgem (Combat)",
+      "range": [
+        621,
+        622
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "rgdcw9nhi2",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.xdpP0y4EfRf0ALl8",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/worn-items/other-worn-items/grim-ring.webp",
+      "name": "Grim Ring",
+      "range": [
+        623,
+        624
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "dgdrrcg2o4k",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.e2hDvrdz0t0hzE5y",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/worn-items/other-worn-items/heated-cloack.webp",
+      "name": "Heated Cloak",
+      "range": [
+        625,
+        626
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "tn4e3qgi28",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.KrmSuQIyu6OEi5ew",
+      "drawn": false,
+      "img": "icons/equipment/neck/necklace-runed-white-red.webp",
+      "name": "Holy Prayer Beads",
+      "range": [
+        627,
+        628
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "ys0czsaj0un",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.Dc2DRXybi5dCxmqP",
+      "drawn": false,
+      "img": "icons/containers/bags/pack-leather-embossed-brown.webp",
+      "name": "Knight's Maintenance Kit",
+      "range": [
+        629,
+        630
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "47ldmsjyimr",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.N9bhBhJ6JawzVitu",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/other/attached-items/large-bore-modification.webp",
+      "name": "Large Bore Modifications",
+      "range": [
+        631,
+        632
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "ia60ccog11",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.Ee9RgoMY3XczPidF",
+      "drawn": false,
+      "img": "icons/sundries/gaming/rune-card.webp",
+      "name": "Liar's Board",
+      "range": [
+        633,
+        634
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "4jiqklsb5o3",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.uPy4iagJMWRi1vNd",
+      "drawn": false,
+      "img": "icons/equipment/chest/breastplate-collared-steel-green.webp",
+      "name": "Living Leaf Weave",
+      "range": [
+        635,
+        638
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "gxft068co6i",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.BPZPA9Y8kPewVYoW",
+      "drawn": false,
+      "img": "icons/equipment/shield/heater-steel-boss-red.webp",
+      "name": "Magnetic Shield",
+      "range": [
+        639,
+        642
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "6v5yyyxetxm",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.AHkmoVr1NSFytJwp",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/worn-items/other-worn-items/merchants-guile.webp",
+      "name": "Merchant's Guile",
+      "range": [
+        643,
+        644
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "yeptextt9nk",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.NzVp3RKhBkAPbe3g",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/gnome-hooked-hammer.webp",
+      "name": "Metronomic Hammer",
+      "range": [
+        645,
+        646
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "b7usu3wb6m6",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.GINBGF9CosuIuXOD",
+      "drawn": false,
+      "img": "icons/creatures/abilities/mouth-teeth-crooked-blue.webp",
+      "name": "Monster Suit",
+      "range": [
+        647,
+        648
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "6ylvffnm2db",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.7Z6cpy4rXCOaYJJH",
+      "drawn": false,
+      "img": "icons/commodities/tech/fan-ventilator-copper.webp",
+      "name": "Nightbreeze Machine",
+      "range": [
+        649,
+        650
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "cwztq4x7ehw",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.3ZBFkXQC7jgZ8kx9",
+      "drawn": false,
+      "img": "icons/equipment/chest/breastplate-banded-simple-leather-brown.webp",
+      "name": "Ooze Skin",
+      "range": [
+        651,
+        654
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "c9wueizrmpu",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.vCf4otZtC4RHtXdI",
+      "drawn": false,
+      "img": "systems/pf2e/icons/default-icons/equipment.svg",
+      "name": "Poison Concentrator (Lesser)",
+      "range": [
+        655,
+        658
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "f9daax8p",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.RKPAHGFV3mq3a3dt",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/other/attached-items/shielded-tripod.webp",
+      "name": "Portable Weapon Mount (Shielded Tripod)",
+      "range": [
+        659,
+        660
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "121s9js90n3",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.D9vU4fADTYSaZpM9",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/rapier.webp",
+      "name": "Protector's Final Gift",
+      "range": [
+        661,
+        661
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "gteqd6lf0lf",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.y8M3fBQEtddg9Lbj",
+      "drawn": false,
+      "img": "icons/commodities/tech/detonator-radio.webp",
+      "name": "Remote Trigger",
+      "range": [
+        662,
+        665
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "jlxyakdod1",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.CtAg4DpSssKBIw8R",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/replacement-filter.webp",
+      "name": "Replacement Filter (Level 5)",
+      "range": [
+        666,
+        667
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "gyeqyfu2okt",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.3RPYWoUv1VKGjJ7i",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/worn-items/other-worn-items/ring-of-minor-arcana.webp",
+      "name": "Ring of Minor Arcana",
+      "range": [
+        668,
+        669
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "rpw9p2k588",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.Xv6NlFohsFtIHp6K",
+      "drawn": false,
+      "img": "icons/equipment/finger/ring-inlay-red.webp",
+      "name": "Ring of the Weary Traveler",
+      "range": [
+        670,
+        671
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "ib0trfxsrg",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.1eiaTQo9SKiybP8G",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/scizore.webp",
+      "name": "Scizore of the Crab",
+      "range": [
+        672,
+        675
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "38uwoes4wb7",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.OKAR7GIyJac8dmsi",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/specific-magic-weapons/singing-sword.webp",
+      "name": "Singing Sword",
+      "range": [
+        676,
+        676
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "ov49ne6aw7",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.mf5eeIdKjfSZ0K3p",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/flintlock-musket.webp",
+      "name": "Solar Shellflower",
+      "range": [
+        677,
+        678
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "bkvnr8aul",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.qwHO8kRNKPqCM80x",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/musical-instrument-heavy.webp",
+      "name": "Spirit-Singer",
+      "range": [
+        679,
+        679
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "ib6w8g00wlg",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.IVaQrUnLCzTZIfP6",
+      "drawn": false,
+      "img": "icons/equipment/feet/boots-armored-grey.webp",
+      "name": "Spring Heel",
+      "range": [
+        680,
+        681
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "caq61vfmmsh",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.bhpYiOmBysl8ZEYn",
+      "drawn": false,
+      "img": "icons/equipment/finger/ring-inlay-skull-silver.webp",
+      "name": "Stalwart's Ring",
+      "range": [
+        682,
+        683
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "ebctdc1jrz9",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.enBDzoapUkvk4WVu",
+      "drawn": false,
+      "img": "icons/weapons/guns/gun-blunderbuss-worn-brown.webp",
+      "name": "Thundercrasher",
+      "range": [
+        684,
+        685
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "539x7eks8i",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.aUohYRQ8lHzgblxi",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/artisan-tools.webp",
+      "name": "Toolkit of Bronze Whispers",
+      "range": [
+        686,
+        686
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "l0kzvvb34k",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.mdNNIF01ybgs1m3s",
+      "drawn": false,
+      "img": "icons/containers/bags/pack-leather-tan.webp",
+      "name": "War Saddle",
+      "range": [
+        687,
+        688
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "kdelv6ptu99",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.c0gjWASSeNIRNmEw",
+      "drawn": false,
+      "img": "icons/equipment/finger/ring-cabochon-squared-gold-red.webp",
+      "name": "Warrior's Training Ring",
+      "range": [
+        689,
+        690
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "h9lzq4odx49",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.7L10GdJdL1hYcJZm",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/khakkhara.webp",
+      "name": "Worldringer",
+      "range": [
+        691,
+        692
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "0xcx59s4g4fo",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.jau3C5ao3vm2gt8c",
+      "drawn": false,
+      "img": "icons/equipment/chest/breastplate-purple.webp",
+      "name": "Clockwork Disguise",
+      "range": [
+        693,
+        694
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "7mmqhtbph45",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.EHMRryMB3s6XdkRz",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/armor/specific-magic-armor/clockwork-diving-suit.webp",
+      "name": "Clockwork Diving Suit",
+      "range": [
+        695,
+        696
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "hciabj6zgxe",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.NLC3c1mudubNNekY",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/clockwork-recorder.webp",
+      "name": "Clockwork Recorder",
+      "range": [
+        697,
+        697
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "gys4mzg65be",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.ZWroGcapvICFAQZt",
+      "drawn": false,
+      "img": "icons/weapons/wands/wand-gem-violet.webp",
+      "name": "Cyrusian Wand (2nd-Rank Spell)",
+      "range": [
+        698,
+        698
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "4ghney8xy1",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.WOwVBsiwLQxnIJRV",
+      "drawn": false,
+      "img": "icons/equipment/chest/breastplate-layered-leather-studded-brown.webp",
+      "name": "Devil's Bargain",
+      "range": [
+        699,
+        700
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "0cl9vteczbcc",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.ZsmASTxnrtZX9JDH",
+      "drawn": false,
+      "img": "icons/weapons/staves/staff-simple-gold.webp",
+      "name": "Dragonscale Bo Staff",
+      "range": [
+        701,
+        704
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "j8r9jfawvke",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.4jZqYIyouoK7xe8u",
+      "drawn": false,
+      "img": "icons/weapons/staves/staff-simple-gold.webp",
+      "name": "Dragonscale Staff",
+      "range": [
+        705,
+        708
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "nit5ubhop7r",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.gSSibF07emWGpGKw",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/runes/armor-property-runes/armor-property-runes.webp",
+      "name": "Dread (Lesser)",
+      "range": [
+        709,
+        710
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "8xmcxo2xzq9",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.b0kltGQGBUBHN8Ap",
+      "drawn": false,
+      "img": "icons/equipment/head/crown-horns-brown.webp",
+      "name": "Druid's Crown",
+      "range": [
+        711,
+        714
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "9rec0sbqr39",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.P3zAUF2yTOeS1GSH",
+      "drawn": false,
+      "img": "icons/commodities/tech/console-steel.webp",
+      "name": "Light Writer",
+      "range": [
+        715,
+        715
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "cu41b42os3h",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.kPHVVkNSEi1QeEIO",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/armor/chainshirt.webp",
+      "name": "Lion's Pelt (Chain)",
+      "range": [
+        716,
+        717
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "ifcj5o728ff",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.dXCdg96HwVGT1URT",
+      "drawn": false,
+      "img": "icons/equipment/chest/breastplate-banded-leather-brown.webp",
+      "name": "Lion's Pelt (Leather)",
+      "range": [
+        718,
+        719
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "34mp72sopru",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.Ld6K4snDzKbNXy2g",
+      "drawn": false,
+      "img": "icons/equipment/finger/ring-band-engraved-scrolls-bronze.webp",
+      "name": "Ring of Sigils (Greater)",
+      "range": [
+        720,
+        723
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "u7siwrf411l",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.uVcePmysXUFhOebP",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/specific-magic-weapons/soul-chain.webp",
+      "name": "Soul Chain",
+      "range": [
+        724,
+        724
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "m86dwze9fj",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.cICCgx4NJKSREeZD",
+      "drawn": false,
+      "img": "systems/pf2e/icons/default-icons/equipment.svg",
+      "name": "Spare Wax Cylinder",
+      "range": [
+        725,
+        725
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "rx075mkl83f",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.3qn56dTO5TYJHjbF",
+      "drawn": false,
+      "img": "systems/pf2e/icons/default-icons/weapon.svg",
+      "name": "Spike Launcher",
+      "range": [
+        726,
+        727
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "3npdkh6ebmu",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.POETsrh8lz9VnBEG",
+      "drawn": false,
+      "img": "icons/tools/instruments/pipe-flue-tan.webp",
+      "name": "Spirit-Singer (Handheld)",
+      "range": [
+        728,
+        728
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "gqyeowdruu",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.YoRL8PkjYInpmBWl",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/worn-items/other-worn-items/hag-eye.webp",
+      "name": "Stony Hag Eye",
+      "range": [
+        729,
+        729
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "esnoejsp5jw",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.tzFMetc4VK6goDm2",
+      "drawn": false,
+      "img": "icons/equipment/chest/vest-leather-tattered-white.webp",
+      "name": "Trollhound Vest",
+      "range": [
+        730,
+        731
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "j3ueynm3cip",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.hvMIJKY1mKXDmg1V",
+      "drawn": false,
+      "img": "icons/weapons/thrown/bolas-stone.webp",
+      "name": "Windlass Bola",
+      "range": [
+        732,
+        733
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "wwoqp0j6wfd",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.peoheZMxdPHUNo93",
+      "drawn": false,
+      "img": "icons/sundries/misc/horseshoe-iron.webp",
+      "name": "Alacritous Horseshoes",
+      "range": [
+        734,
+        737
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "p82q4tjc0xf",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.QyzNxesxaSdPo3Pd",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/whip.webp",
+      "name": "Alghollthu Lash",
+      "range": [
+        738,
+        739
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "n4phl9k3n2",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.TIq0xuvRpIdPglsA",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/whip.webp",
+      "name": "Alghollthu Whip",
+      "range": [
+        740,
+        741
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "vi9fz5mhl7q",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.JG7p7yI12cAPuJ8X",
+      "drawn": false,
+      "img": "icons/equipment/chest/breastplate-banded-simple-leather-brown.webp",
+      "name": "Arachnid Harness",
+      "range": [
+        742,
+        745
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "k6b710ahj4d",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.JDgFHv334yCrBY38",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/armor/chainshirt.webp",
+      "name": "Blade Byrnie",
+      "range": [
+        746,
+        749
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "5wtvr584k8e",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.fVOObByW6XHADQ2J",
+      "drawn": false,
+      "img": "icons/equipment/hand/gauntlet-clawed-steel.webp",
+      "name": "Clawed Bracers",
+      "range": [
+        750,
+        753
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "0hvbuo259tlp",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.0HvjITehMdaFYUkb",
+      "drawn": false,
+      "img": "icons/equipment/back/cloak-collared-feathers-green.webp",
+      "name": "Cloak of Illusions",
+      "range": [
+        754,
+        757
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "umrs5234c1o",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.TxB1a2DrhRZABRjV",
+      "drawn": false,
+      "img": "icons/equipment/back/cloak-collared-feathers-green.webp",
+      "name": "Cloak of Thirsty Fronds",
+      "range": [
+        758,
+        758
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "s8h88a8qmsa",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.VMIwKvpQHh91cQoa",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/worn-items/other-worn-items/clockwork-heels.webp",
+      "name": "Clockwork Heels",
+      "range": [
+        759,
+        759
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "8hswfpa3z4t",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.babiGiHQwY6Bg4XP",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/held-items/dawnlight.webp",
+      "name": "Dawnlight (Greater)",
+      "range": [
+        760,
+        761
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "o4xat1dap",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.atB2ewbcBMWvhjNT",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/specific-magic-weapons/guiding-star.webp",
+      "name": "Guiding Star",
+      "range": [
+        762,
+        765
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "7fklufxocfb",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.174fUKNwSgbKwroU",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/specific-magic-weapons/ladys-spiral.webp",
+      "name": "Lady's Spiral",
+      "range": [
+        766,
+        767
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "rcxe64dkg1a",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.HWQEGY2X0QXj2zfN",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/intelligent-items/martyrs-shield.webp",
+      "name": "Martyr's Shield",
+      "range": [
+        768,
+        768
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "lk49czv1okg",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.3mmS3Y291h6Ckgin",
+      "drawn": false,
+      "img": "icons/equipment/chest/breastplate-layered-steel-green.webp",
+      "name": "Powered Full Plate",
+      "range": [
+        769,
+        769
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "dmep38fvozr",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.faKyy6ETkDgrUnvf",
+      "drawn": false,
+      "img": "icons/equipment/finger/ring-band-engraved-silver.webp",
+      "name": "Ring of Wizardry (Type I)",
+      "range": [
+        770,
+        771
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "kda6xy65lff",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.SNF8g7u8JYzqvsU1",
+      "drawn": false,
+      "img": "icons/commodities/materials/material-feathers-violet.webp",
+      "name": "Spirit Fan",
+      "range": [
+        772,
+        772
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "2bhdejuy8n",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.GUyavibqPPxwFxyR",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/worn-items/companion-items/swarmform-collar.webp",
+      "name": "Swarmform Collar",
+      "range": [
+        773,
+        774
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "tdzhjtl26j",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.6aubQ21gRc5EMnbT",
+      "drawn": false,
+      "img": "icons/weapons/daggers/dagger-straight-blue.webp",
+      "name": "Undead Scourge",
+      "range": [
+        775,
+        776
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "dzd8bbttui",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.KAOlwH6kBCCvEYbW",
+      "drawn": false,
+      "img": "icons/environment/wilderness/tree-oak.webp",
+      "name": "Verdant Branch",
+      "range": [
+        777,
+        780
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "gmse0r0sbp",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.tBGhH7AHyvJQZC5d",
+      "drawn": false,
+      "img": "icons/equipment/chest/vest-leather-tattered-white.webp",
+      "name": "Wolfjaw Armor",
+      "range": [
+        781,
+        784
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "ta9q0dweomb",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.7eggb7exEAbZABrd",
+      "drawn": false,
+      "img": "icons/tools/instruments/megaphone.webp",
+      "name": "Bagpipes of Turmoil (Greater)",
+      "range": [
+        785,
+        788
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "92sigltuvs7",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.GmcgsiCi4EVFMJWz",
+      "drawn": false,
+      "img": "icons/equipment/chest/breastplate-banded-leather-brown.webp",
+      "name": "Balloon Padding",
+      "range": [
+        789,
+        790
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "s3mhl6t3j2",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.5Dk8NQMW8NXFEKPy",
+      "drawn": false,
+      "img": "icons/sundries/books/book-symbol-link-brown.webp",
+      "name": "Book of Warding Prayers",
+      "range": [
+        791,
+        794
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "pt10tppf2og",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.2APHVWkqnFvecrfx",
+      "drawn": false,
+      "img": "icons/equipment/head/mask-plague-leather-brown.webp",
+      "name": "Bootstrap Respirator",
+      "range": [
+        795,
+        796
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "34ldv11a8fc",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.9jn87Bnp2kGnDFPQ",
+      "drawn": false,
+      "img": "systems/pf2e/icons/default-icons/weapon.svg",
+      "name": "Breath Blaster",
+      "range": [
+        797,
+        798
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "es0x17gg269",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.BJuqdqbflAcuCJkt",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/clockwork-macuahuitl.webp",
+      "name": "Clockwork Macuahuitl",
+      "range": [
+        799,
+        799
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "5vdcu21vied",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.Rsoh0Y3RQD8x8ito",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/worn-items/companion-items/collar-of-inconspicuousness.webp",
+      "name": "Collar of Inconspicuousness",
+      "range": [
+        800,
+        803
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "x3hgrf6amzj",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.paMCEopsN26PQLXb",
+      "drawn": false,
+      "img": "icons/weapons/wands/wand-gem-violet.webp",
+      "name": "Cyrusian Wand (3rd-Rank Spell)",
+      "range": [
+        804,
+        804
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "evw4gnttzyd",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.J2YjO6JfbeJCPOaT",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/halberd.webp",
+      "name": "Doomsweeper",
+      "range": [
+        805,
+        806
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "jfpbds7tno",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.cHP1s9Ntki9B1HgM",
+      "drawn": false,
+      "img": "icons/tools/instruments/drum-brown-red.webp",
+      "name": "Drums of War (Greater)",
+      "range": [
+        807,
+        810
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "xp969b74qjd",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.pDNlJMlF4OotsVBh",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/held-items/entertainers-lute.webp",
+      "name": "Entertainer's Lute (Greater)",
+      "range": [
+        811,
+        814
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "ob0isguy2as",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.ywsDnHaJSD9oHvh7",
+      "drawn": false,
+      "img": "icons/magic/symbols/star-inverted-yellow.webp",
+      "name": "Faith Tattoo (Greater)",
+      "range": [
+        815,
+        818
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "rx7r98o6z6",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.bh3zC7WcVlM0qgYZ",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/worn-items/other-worn-items/fleshgem-earthspeaker.webp",
+      "name": "Fleshgem (Earthspeaker)",
+      "range": [
+        819,
+        820
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "8k6ijludll",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.IePXTa0jDjDqXxYl",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/hand-cannon.webp",
+      "name": "Gray Prince",
+      "range": [
+        821,
+        821
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "enep8pp0ba",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.RZkttcpkv4qLs1Lk",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/specific-magic-weapons/hundred-moth-caress.webp",
+      "name": "Hundred-Moth Caress",
+      "range": [
+        822,
+        825
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "pqmkusdxxu",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.O5da0gpQqR9MwGLF",
+      "drawn": false,
+      "img": "icons/weapons/guns/gun-red.webp",
+      "name": "Mindlance",
+      "range": [
+        826,
+        827
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "bhrlq4ynfr",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.i8UuRf5yLztt43TN",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/shields/specific-shields/wovenwood-shield.webp",
+      "name": "Mycoweave Shield (Greater)",
+      "range": [
+        828,
+        829
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "yhxmdvshtsc",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.HnOWpyuCHwewPZMu",
+      "drawn": false,
+      "img": "systems/pf2e/icons/unarmed-attacks/tongue.webp",
+      "name": "Pickled Demon Tongue (Greater)",
+      "range": [
+        830,
+        831
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "d59ekoe22dl",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.X42q1s1ZnxliirGW",
+      "drawn": false,
+      "img": "icons/tools/instruments/flute-simple-wood.webp",
+      "name": "Pipes of Compulsion (Greater)",
+      "range": [
+        832,
+        833
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "p1vxdw0zqbm",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.62oxvKUCReo7Iah7",
+      "drawn": false,
+      "img": "systems/pf2e/icons/unarmed-attacks/tusk.webp",
+      "name": "Polished Demon Horn (Greater)",
+      "range": [
+        834,
+        835
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "9i9yy8vlct",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.rJcynWlGp05cLsrG",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/held-items/games.webp",
+      "name": "Portable Gaming Hall",
+      "range": [
+        836,
+        837
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "g76ryqdhipc",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.VToK4BNsTPOMAhHH",
+      "drawn": false,
+      "img": "systems/pf2e/icons/spells/deceivers-cloak.webp",
+      "name": "Robe of Feathers Fall",
+      "range": [
+        838,
+        841
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "cdejqnsj8xj",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.Wfu6R7y4w9iTZcDs",
+      "drawn": false,
+      "img": "icons/equipment/chest/breastplate-scale-leather.webp",
+      "name": "Rusting Carapace",
+      "range": [
+        842,
+        843
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "qv1y3befvtl",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.D7ARQDAr9tO61UqY",
+      "drawn": false,
+      "img": "icons/tools/instruments/pipe-flute-brown.webp",
+      "name": "Seer's Flute (Greater)",
+      "range": [
+        844,
+        845
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "y0dy53g6jx",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.0OzL3DdtTnZE91MU",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/worn-items/other-worn-items/hag-eye.webp",
+      "name": "Smoky Hag Eye",
+      "range": [
+        846,
+        846
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "fhk1tm3xsbp",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.EiCCWG0Xta0ZBUfA",
+      "drawn": false,
+      "img": "icons/commodities/tech/crank.webp",
+      "name": "Steam Winch",
+      "range": [
+        847,
+        847
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "ui9505mye6o",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.tWgN8hQbHlHNMTcF",
+      "drawn": false,
+      "img": "icons/magic/light/beam-rays-yellow-blue-large.webp",
+      "name": "Sun Dazzler",
+      "range": [
+        848,
+        851
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "oiga4hoevf",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.sfKzk4bzplyT4zax",
+      "drawn": false,
+      "img": "icons/weapons/guns/gun-pistol-wood.webp",
+      "name": "Sunken Pistol",
+      "range": [
+        852,
+        852
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "igfr0olkf9",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.DsZ48n6mn8uW5EIP",
+      "drawn": false,
+      "img": "icons/commodities/materials/slime-thick-orange.webp",
+      "name": "Tallowheart Mass",
+      "range": [
+        853,
+        853
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "9f1eo4ldr0o",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.GkQJfRZC749piiBr",
+      "drawn": false,
+      "img": "icons/sundries/books/book-embossed-blue.webp",
+      "name": "Tome of Scintillating Sleet",
+      "range": [
+        854,
+        857
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "ym6ltpved1d",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.Pq7JhHw3QhqqxY9d",
+      "drawn": false,
+      "img": "icons/tools/instruments/lute-gold-brown.webp",
+      "name": "Trickster's Mandolin (Greater)",
+      "range": [
+        858,
+        861
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "dctmm5sp44t",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.GFwfZrBGjCZTDcuw",
+      "drawn": false,
+      "img": "icons/weapons/maces/mace-round-spiked-black.webp",
+      "name": "Vampire-Fang Morningstar",
+      "range": [
+        862,
+        865
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "yhoevamoni",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.JLoMkMq727XeMmlR",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/whip.webp",
+      "name": "Vine Whip",
+      "range": [
+        866,
+        869
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "kn3gulhdmc8",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.ADruUHNWh2AuxJFb",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/waffle-iron-mithral.webp",
+      "name": "Waffle Iron (Mithral)",
+      "range": [
+        870,
+        871
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "e8ua8itenrf",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.uV8fEVUuSyMsh1xF",
+      "drawn": false,
+      "img": "icons/equipment/chest/breastplate-layered-leather-studded-brown.webp",
+      "name": "Wasp Guard",
+      "range": [
+        872,
+        875
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "ov91gwriwtd",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.YC6kyZGOKZmONbVM",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/held-items/anointed-waterskin.webp",
+      "name": "Anointed Waterskin",
+      "range": [
+        876,
+        879
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "6zd90d5f09p",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.NIyJqiW1Wci6gP9m",
+      "drawn": false,
+      "img": "icons/equipment/chest/breastplate-banded-simple-leather-brown.webp",
+      "name": "Arachnid Harness (Greater)",
+      "range": [
+        880,
+        883
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "1ma3wdenbv",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.rRAx62TLPTZSiaLD",
+      "drawn": false,
+      "img": "icons/equipment/feet/boots-collared-green.webp",
+      "name": "Arboreal Boots (Greater)",
+      "range": [
+        884,
+        887
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "vouvsndrtnn",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.Z8RZfkIrsifYeWg4",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/worn-items/other-worn-items/camouflage-suit.webp",
+      "name": "Camouflage Suit (Superb)",
+      "range": [
+        888,
+        889
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "7crckwk1s9v",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.cO7ANYLkcmfCn9c9",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/worn-items/companion-items/collar-of-empathy.webp",
+      "name": "Collar of Empathy",
+      "range": [
+        890,
+        893
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "a1eyelokdro",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.u9BdrpYhJDUPQFCF",
+      "drawn": false,
+      "img": "icons/equipment/chest/breastplate-gorget-steel-white.webp",
+      "name": "Dragon Turtle Plate",
+      "range": [
+        894,
+        897
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "urqzrfqzi9",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.iyXC3tIX3VmjCx6G",
+      "drawn": false,
+      "img": "icons/commodities/cloth/cloth-patterned-teal.webp",
+      "name": "Flawless Celestial Shawl",
+      "range": [
+        898,
+        898
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "27uzndgdocy",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.WR8GOQSx7B5AlzNu",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/handcuffs.webp",
+      "name": "Handcuffs (Good)",
+      "range": [
+        899,
+        900
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "ylc0rkbf18",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.yhw1mr4oDhzMQc3D",
+      "drawn": false,
+      "img": "icons/commodities/gems/gem-rough-heart-pink.webp",
+      "name": "Heartstone",
+      "range": [
+        901,
+        904
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "5zgwbjpmz6s",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.WAMDYE9tt3W8obzr",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/held-items/horn-of-blasting.webp",
+      "name": "Horn of Blasting",
+      "range": [
+        905,
+        908
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "ejdakfij3mk",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.FXdESP5mmP01tL2v",
+      "drawn": false,
+      "img": "icons/containers/bags/pouch-leather-green.webp",
+      "name": "Humbug Pocket",
+      "range": [
+        909,
+        912
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "70t3u17eew",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.byKAxLyN7AXySmw7",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/adventuring-gear/lock.webp",
+      "name": "Lock (Good)",
+      "range": [
+        913,
+        916
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "9xuqwbx0nui",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.nza9skYTNtJe2Wd3",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/consumables/talismans/vanishing-coin.webp",
+      "name": "Lucky Keepsake",
+      "range": [
+        917,
+        920
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "1pr45v2pzmq",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.Hd1AfC08ytBg67Ey",
+      "drawn": false,
+      "img": "icons/equipment/head/hat-belted-simple-grey.webp",
+      "name": "Mage's Hat (Greater)",
+      "range": [
+        921,
+        924
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "yc2wyoxfybj",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.5g0rE5yMsTH3E2LJ",
+      "drawn": false,
+      "img": "icons/sundries/survival/cuffs-shackles-steel.webp",
+      "name": "Manacles (Good)",
+      "range": [
+        925,
+        928
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "kjqrsc5e95",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.1bvH8zFQvDYky9tr",
+      "drawn": false,
+      "img": "icons/commodities/biological/eye-purple.webp",
+      "name": "Pendant of the Occult (Greater)",
+      "range": [
+        929,
+        932
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "k7nt0x6z6fq",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.pPl2b7fqfB6dyQwf",
+      "drawn": false,
+      "img": "icons/commodities/treasure/token-silver-blue.webp",
+      "name": "Phylactery of Faithfulness",
+      "range": [
+        933,
+        936
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "i7rg2gt5udk",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.p8kyiYyXDapAUyfE",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/held-items/portable-ram.webp",
+      "name": "Portable Ram (Reinforced)",
+      "range": [
+        937,
+        940
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "h3gfiulcwnh",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.kXK9szN2gcYoPSdN",
+      "drawn": false,
+      "img": "icons/commodities/tech/dial-meter-gauge-blue.webp",
+      "name": "Printing Press",
+      "range": [
+        941,
+        941
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "16jidez513s",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.Il75ytwHrdwAAOwe",
+      "drawn": false,
+      "img": "systems/pf2e/icons/equipment/weapons/sickle.webp",
+      "name": "Reaper's Crescent",
+      "range": [
+        942,
+        943
+      ],
+      "type": "document",
+      "weight": 2
+    },
+    {
+      "_id": "zq868667tlj",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.M7c4uXraP05HYNXs",
+      "drawn": false,
+      "img": "icons/commodities/treasure/brooch-jewel-gold-blue.webp",
+      "name": "Shining Symbol (Greater)",
+      "range": [
+        944,
+        947
+      ],
+      "type": "document",
+      "weight": 4
+    },
+    {
+      "_id": "rtf58u65tn",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.QRtsLdNvTs2C1oI2",
+      "drawn": false,
+      "img": "icons/tools/scribal/lens-blue.webp",
+      "name": "Starless Scope Lens",
+      "range": [
+        948,
+        948
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "x1xwj94geb",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.TuPCnRFdvOboUzx7",
+      "drawn": false,
+      "img": "icons/commodities/biological/tail-spiked-green.webp",
+      "name": "Thrasher Tail",
+      "range": [
+        949,
+        949
+      ],
+      "type": "document",
+      "weight": 1
+    },
+    {
+      "_id": "4tngfvutund",
+      "description": "",
+      "documentUuid": "Compendium.pf2e.equipment-srd.Item.vKzbNBm01hlp3jiO",
+      "drawn": false,
+      "img": "icons/sundries/documents/document-sealed-signatures-red.webp",
+      "name": "Zarothrask's Contract",
+      "range": [
+        950,
+        950
+      ],
+      "type": "document",
+      "weight": 1
+    }
+  ]
+}
