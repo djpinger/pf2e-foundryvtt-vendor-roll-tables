@@ -5,7 +5,7 @@ const path = require('path');
 
 // Configuration
 const CONFIG = {
-  pf2eEquipmentPath: '../pf2e/packs/equipment',
+  pf2eEquipmentPath: '../pf2e/packs/pf2e/equipment',
   outputPath: './vendor-tables/level-7',
   playerLevel: 7,
   levelRange: { min: 1, max: 9 }, // For level 7 players, show items from level 1-9

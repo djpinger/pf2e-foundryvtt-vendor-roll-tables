@@ -8,7 +8,7 @@ const path = require('path');
 
 // Configuration - COMPACT VERSION
 const CONFIG = {
-  pf2eEquipmentPath: '../pf2e/packs/equipment',
+  pf2eEquipmentPath: '../pf2e/packs/pf2e/equipment',
   outputPath: './vendor-tables/level-7-compact',
   playerLevel: 7,
   levelRange: { min: 3, max: 9 }, // Exclude levels 1-2 consumables (reduces clutter)
