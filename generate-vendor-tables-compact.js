@@ -69,7 +69,12 @@ const CONFIG = {
 
 // Helper function to generate a random ID
 function generateId() {
-  return Math.random().toString(36).substring(2, 18);
+  const characters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
+  let result = '';
+  for (let i = 0; i < 16; i++) {
+    result += characters.charAt(Math.floor(Math.random() * characters.length));
+  }
+  return result;
 }
 
 // Helper function to read all equipment files
@@ -225,7 +230,7 @@ function generateRollTable(items, vendorConfig, vendorNumber) {
     formula: `1d${totalWeight}`,
     img: vendorNumber === 1
       ? "systems/pf2e/icons/equipment/adventuring-gear/classkit-fighter.webp"
-      : "systems/pf2e/icons/equipment/consumables/potions/potions.webp",
+      : "systems/pf2e/icons/unidentified_item_icons/potions.webp",
     name: `${vendorConfig.name} (Level ${CONFIG.playerLevel})`,
     ownership: {
       default: 0

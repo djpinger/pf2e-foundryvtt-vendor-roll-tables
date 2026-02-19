@@ -14,11 +14,12 @@ const fs = require('fs');
 const path = require('path');
 
 // Configuration
+const playerLevel = 8;
 const CONFIG = {
-  pf2eEquipmentPath: '../pf2e/packs/pf2e/equipment',
-  outputPath: './vendor-tables/level-7-dynamic',
-  playerLevel: 7,
-  levelRange: { min: 1, max: 9 },
+  pf2eEquipmentPath: process.env.PF2E_PATH || '../pf2e/packs/pf2e/equipment',
+  outputPath: `./vendor-tables/level-${playerLevel}-dynamic`,
+  playerLevel: playerLevel,
+  levelRange: { min: 1, max: playerLevel + 2 },
 
   // Rarity weights for rotating stock
   rarityWeights: {
@@ -131,7 +132,12 @@ const CONFIG = {
 
 // Helper functions
 function generateId() {
-  return Math.random().toString(36).substring(2, 18);
+  const characters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
+  let result = '';
+  for (let i = 0; i < 16; i++) {
+    result += characters.charAt(Math.floor(Math.random() * characters.length));
+  }
+  return result;
 }
 
 function readAllEquipment() {
@@ -333,7 +339,7 @@ function main() {
     CONFIG.vendor1.alwaysAvailable.description,
     null,
     `${CONFIG.vendor1.name} - Always Available (Level ${CONFIG.playerLevel})`,
-    "systems/pf2e/icons/equipment/adventuring-gear/adventuring-gear.webp",
+    "icons/containers/bags/pack-leather-red.webp",
     false // No weights - all equal for always available
   );
 
@@ -355,7 +361,7 @@ function main() {
     CONFIG.vendor1.rotatingStock.description,
     null,
     `${CONFIG.vendor1.name} - Rotating Stock (Level ${CONFIG.playerLevel})`,
-    "systems/pf2e/icons/equipment/adventuring-gear/classkit-fighter.webp",
+    "icons/containers/chest/chest-simple-box-steel-brown.webp",
     true // Use rarity weights
   );
 
@@ -386,7 +392,7 @@ function main() {
     CONFIG.vendor2.alwaysAvailable.description,
     null,
     `${CONFIG.vendor2.name} - Always Available (Level ${CONFIG.playerLevel})`,
-    "systems/pf2e/icons/equipment/consumables/potions/minor-healing-potion.webp",
+    "icons/consumables/potions/bottle-round-corked-red.webp",
     false
   );
 
@@ -408,7 +414,7 @@ function main() {
     CONFIG.vendor2.rotatingStock.description,
     null,
     `${CONFIG.vendor2.name} - Rotating Stock (Level ${CONFIG.playerLevel})`,
-    "systems/pf2e/icons/equipment/consumables/potions/potions.webp",
+    "icons/consumables/potions/bottle-round-corked-orante-red.webp",
     true
   );
 
